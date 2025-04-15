@@ -1,66 +1,38 @@
-﻿namespace ConsoleApp1
+﻿using System.Security.Cryptography;
+
+namespace Ejercicios_Hamming__Collatz_Conjecture_y_Difference_of_Squares
 {
     internal class Program
     {
         static void Main(string[] args)
         {
-            int cantidad_calificaciones = 0;
-            int suma_calificacion = 0;
-            int calificacion = 0;
-            int promedio = 0;
-            string nombre = "";
-            string clasificacion = "";
+            char[] variantes = { 'C', 'A', 'G', 'T' };
+            char[] adn = new char[7];
+            char[] comparacion = new char[7];
+            Random random = new Random();
+            int distancia = 0;
 
-            Console.WriteLine("Ingrese el nombre del estudiante:");
-            nombre = Console.ReadLine();
-            Console.WriteLine("Ingrese la cantidad de notas del estudiante: ");
-            int notas = int.Parse(Console.ReadLine());
-
-            while (nombre == "")
+            for (int i = 0; i < adn.Length; i++)
             {
-                Console.WriteLine("Nombre invalido, ingreselo nuevamente: ");
-                nombre = Console.ReadLine();
+                adn[i] = variantes[random.Next(variantes.Length)];
             }
-            while(notas < 1 || notas > 5)
-            {
-                Console.WriteLine("Cantidad de notas invalida, ingresela nuevamente: ");
-                notas = int.Parse(Console.ReadLine());
-            }
-            for(int i = 0; i < notas; i++)
-            {
-                Console.WriteLine($"Ingrese la calificación {i + 1} (entre 1 y 10):");
-                calificacion = int.Parse(Console.ReadLine());
 
-                while (calificacion < 1 || calificacion > 10)
+            for (int i = 0; i < comparacion.Length; i++)
+            {
+                comparacion[i] = variantes[random.Next(variantes.Length)];
+            }
+
+            Console.WriteLine("El primer arreglo es: " + new string(adn));
+            Console.WriteLine("El primer arreglo es: " + new string(comparacion));
+
+            for (int i = 0; i < 7; i++)
+            {
+                if (adn[i] != comparacion[i])
                 {
-                    Console.WriteLine("Calificación invalida, ingresela nuevamente: ");
-                    calificacion = int.Parse(Console.ReadLine());
+                    distancia++;
                 }
-
-                suma_calificacion += calificacion;
-                cantidad_calificaciones++;
             }
-            promedio = suma_calificacion / cantidad_calificaciones;
-
-            if (promedio >= 9)
-            {
-                clasificacion = "Excelente";
-            }
-            else if (promedio >= 7)
-            {
-                clasificacion = "Bueno";
-            }
-            else if (promedio >= 6)
-            {
-                clasificacion = "Regular";
-            }
-            else
-            {
-                clasificacion = "Reprobado";
-            }
-
-            Console.WriteLine($"El promedio de {nombre} es: {promedio} y su clasificación es: {clasificacion}");
+            Console.WriteLine("La distancia hamming entre los 2 arreglos es: " + distancia);
         }
-         
     }
 }
