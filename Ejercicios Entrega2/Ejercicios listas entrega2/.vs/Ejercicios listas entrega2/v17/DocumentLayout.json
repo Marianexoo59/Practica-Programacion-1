@@ -1,0 +1,92 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\maria\\source\\repos\\Practica-Programacion-1\\Ejercicios Entrega2\\Ejercicios listas entrega2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4AE61872-A260-404E-B1C1-20BB1A205E41}|Ejercicios listas entrega2.csproj|c:\\users\\maria\\source\\repos\\practica-programacion-1\\ejercicios entrega2\\ejercicios listas entrega2\\ejerciciotres.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4AE61872-A260-404E-B1C1-20BB1A205E41}|Ejercicios listas entrega2.csproj|solutionrelative:ejerciciotres.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4AE61872-A260-404E-B1C1-20BB1A205E41}|Ejercicios listas entrega2.csproj|c:\\users\\maria\\source\\repos\\practica-programacion-1\\ejercicios entrega2\\ejercicios listas entrega2\\ejerciciouno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4AE61872-A260-404E-B1C1-20BB1A205E41}|Ejercicios listas entrega2.csproj|solutionrelative:ejerciciouno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4AE61872-A260-404E-B1C1-20BB1A205E41}|Ejercicios listas entrega2.csproj|c:\\users\\maria\\source\\repos\\practica-programacion-1\\ejercicios entrega2\\ejercicios listas entrega2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4AE61872-A260-404E-B1C1-20BB1A205E41}|Ejercicios listas entrega2.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4AE61872-A260-404E-B1C1-20BB1A205E41}|Ejercicios listas entrega2.csproj|c:\\users\\maria\\source\\repos\\practica-programacion-1\\ejercicios entrega2\\ejercicios listas entrega2\\ejerciciodos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4AE61872-A260-404E-B1C1-20BB1A205E41}|Ejercicios listas entrega2.csproj|solutionrelative:ejerciciodos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EjercicioTres.cs",
+              "DocumentMoniker": "C:\\Users\\maria\\source\\repos\\Practica-Programacion-1\\Ejercicios Entrega2\\Ejercicios listas entrega2\\EjercicioTres.cs",
+              "RelativeDocumentMoniker": "EjercicioTres.cs",
+              "ToolTip": "C:\\Users\\maria\\source\\repos\\Practica-Programacion-1\\Ejercicios Entrega2\\Ejercicios listas entrega2\\EjercicioTres.cs",
+              "RelativeToolTip": "EjercicioTres.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAA1wBUAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-06T14:08:57.334Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "EjercicioDos.cs",
+              "DocumentMoniker": "C:\\Users\\maria\\source\\repos\\Practica-Programacion-1\\Ejercicios Entrega2\\Ejercicios listas entrega2\\EjercicioDos.cs",
+              "RelativeDocumentMoniker": "EjercicioDos.cs",
+              "ToolTip": "C:\\Users\\maria\\source\\repos\\Practica-Programacion-1\\Ejercicios Entrega2\\Ejercicios listas entrega2\\EjercicioDos.cs",
+              "RelativeToolTip": "EjercicioDos.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAgwCAAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-06T13:59:48.957Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "EjercicioUno.cs",
+              "DocumentMoniker": "C:\\Users\\maria\\source\\repos\\Practica-Programacion-1\\Ejercicios Entrega2\\Ejercicios listas entrega2\\EjercicioUno.cs",
+              "RelativeDocumentMoniker": "EjercicioUno.cs",
+              "ToolTip": "C:\\Users\\maria\\source\\repos\\Practica-Programacion-1\\Ejercicios Entrega2\\Ejercicios listas entrega2\\EjercicioUno.cs",
+              "RelativeToolTip": "EjercicioUno.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-06T13:46:00.157Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\maria\\source\\repos\\Practica-Programacion-1\\Ejercicios Entrega2\\Ejercicios listas entrega2\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\maria\\source\\repos\\Practica-Programacion-1\\Ejercicios Entrega2\\Ejercicios listas entrega2\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-06T13:44:51.772Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

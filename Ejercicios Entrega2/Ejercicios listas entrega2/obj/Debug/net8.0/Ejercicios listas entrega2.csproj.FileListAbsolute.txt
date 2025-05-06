@@ -1,0 +1,15 @@
+C:\Users\maria\source\repos\Practica-Programacion-1\Ejercicios Entrega2\Ejercicios listas entrega2\bin\Debug\net8.0\Ejercicios listas entrega2.exe
+C:\Users\maria\source\repos\Practica-Programacion-1\Ejercicios Entrega2\Ejercicios listas entrega2\bin\Debug\net8.0\Ejercicios listas entrega2.deps.json
+C:\Users\maria\source\repos\Practica-Programacion-1\Ejercicios Entrega2\Ejercicios listas entrega2\bin\Debug\net8.0\Ejercicios listas entrega2.runtimeconfig.json
+C:\Users\maria\source\repos\Practica-Programacion-1\Ejercicios Entrega2\Ejercicios listas entrega2\bin\Debug\net8.0\Ejercicios listas entrega2.dll
+C:\Users\maria\source\repos\Practica-Programacion-1\Ejercicios Entrega2\Ejercicios listas entrega2\bin\Debug\net8.0\Ejercicios listas entrega2.pdb
+C:\Users\maria\source\repos\Practica-Programacion-1\Ejercicios Entrega2\Ejercicios listas entrega2\obj\Debug\net8.0\Ejercicios listas entrega2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\maria\source\repos\Practica-Programacion-1\Ejercicios Entrega2\Ejercicios listas entrega2\obj\Debug\net8.0\Ejercicios listas entrega2.AssemblyInfoInputs.cache
+C:\Users\maria\source\repos\Practica-Programacion-1\Ejercicios Entrega2\Ejercicios listas entrega2\obj\Debug\net8.0\Ejercicios listas entrega2.AssemblyInfo.cs
+C:\Users\maria\source\repos\Practica-Programacion-1\Ejercicios Entrega2\Ejercicios listas entrega2\obj\Debug\net8.0\Ejercicios listas entrega2.csproj.CoreCompileInputs.cache
+C:\Users\maria\source\repos\Practica-Programacion-1\Ejercicios Entrega2\Ejercicios listas entrega2\obj\Debug\net8.0\Ejercicios listas entrega2.sourcelink.json
+C:\Users\maria\source\repos\Practica-Programacion-1\Ejercicios Entrega2\Ejercicios listas entrega2\obj\Debug\net8.0\Ejercicios listas entrega2.dll
+C:\Users\maria\source\repos\Practica-Programacion-1\Ejercicios Entrega2\Ejercicios listas entrega2\obj\Debug\net8.0\refint\Ejercicios listas entrega2.dll
+C:\Users\maria\source\repos\Practica-Programacion-1\Ejercicios Entrega2\Ejercicios listas entrega2\obj\Debug\net8.0\Ejercicios listas entrega2.pdb
+C:\Users\maria\source\repos\Practica-Programacion-1\Ejercicios Entrega2\Ejercicios listas entrega2\obj\Debug\net8.0\Ejercicios listas entrega2.genruntimeconfig.cache
+C:\Users\maria\source\repos\Practica-Programacion-1\Ejercicios Entrega2\Ejercicios listas entrega2\obj\Debug\net8.0\ref\Ejercicios listas entrega2.dll
