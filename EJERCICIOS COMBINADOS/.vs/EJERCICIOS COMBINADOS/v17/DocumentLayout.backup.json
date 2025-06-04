@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\maria\\source\\repos\\EJERCICIOS COMBINADOS\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3B47C868-FAE9-4232-B8C9-93CD834A200B}|EJERCICIOS COMBINADOS\\EJERCICIOS COMBINADOS.csproj|c:\\users\\maria\\source\\repos\\ejercicios combinados\\ejercicios combinados\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B47C868-FAE9-4232-B8C9-93CD834A200B}|EJERCICIOS COMBINADOS\\EJERCICIOS COMBINADOS.csproj|solutionrelative:ejercicios combinados\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\maria\\source\\repos\\EJERCICIOS COMBINADOS\\EJERCICIOS COMBINADOS\\Program.cs",
+              "RelativeDocumentMoniker": "EJERCICIOS COMBINADOS\\Program.cs",
+              "ToolTip": "C:\\Users\\maria\\source\\repos\\EJERCICIOS COMBINADOS\\EJERCICIOS COMBINADOS\\Program.cs*",
+              "RelativeToolTip": "EJERCICIOS COMBINADOS\\Program.cs*",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAUwA4AAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-09T21:59:31.325Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

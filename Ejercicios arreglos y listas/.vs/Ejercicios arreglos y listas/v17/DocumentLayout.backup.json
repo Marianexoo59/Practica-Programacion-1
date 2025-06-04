@@ -1,0 +1,338 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\maria\\source\\repos\\Ejercicios arreglos y listas\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{85D242CA-C23C-4009-8A0E-B7BB28204288}|Ejercicios arreglos y listas.csproj|c:\\users\\maria\\source\\repos\\ejercicios arreglos y listas\\ejercicio16.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{85D242CA-C23C-4009-8A0E-B7BB28204288}|Ejercicios arreglos y listas.csproj|solutionrelative:ejercicio16.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85D242CA-C23C-4009-8A0E-B7BB28204288}|Ejercicios arreglos y listas.csproj|c:\\users\\maria\\source\\repos\\ejercicios arreglos y listas\\ejercicio8.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{85D242CA-C23C-4009-8A0E-B7BB28204288}|Ejercicios arreglos y listas.csproj|solutionrelative:ejercicio8.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85D242CA-C23C-4009-8A0E-B7BB28204288}|Ejercicios arreglos y listas.csproj|c:\\users\\maria\\source\\repos\\ejercicios arreglos y listas\\ejercicio9.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{85D242CA-C23C-4009-8A0E-B7BB28204288}|Ejercicios arreglos y listas.csproj|solutionrelative:ejercicio9.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85D242CA-C23C-4009-8A0E-B7BB28204288}|Ejercicios arreglos y listas.csproj|c:\\users\\maria\\source\\repos\\ejercicios arreglos y listas\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{85D242CA-C23C-4009-8A0E-B7BB28204288}|Ejercicios arreglos y listas.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85D242CA-C23C-4009-8A0E-B7BB28204288}|Ejercicios arreglos y listas.csproj|c:\\users\\maria\\source\\repos\\ejercicios arreglos y listas\\ejercicios arreglos y listas.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{85D242CA-C23C-4009-8A0E-B7BB28204288}|Ejercicios arreglos y listas.csproj|solutionrelative:ejercicios arreglos y listas.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85D242CA-C23C-4009-8A0E-B7BB28204288}|Ejercicios arreglos y listas.csproj|c:\\users\\maria\\source\\repos\\ejercicios arreglos y listas\\ejercicio15.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{85D242CA-C23C-4009-8A0E-B7BB28204288}|Ejercicios arreglos y listas.csproj|solutionrelative:ejercicio15.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85D242CA-C23C-4009-8A0E-B7BB28204288}|Ejercicios arreglos y listas.csproj|c:\\users\\maria\\source\\repos\\ejercicios arreglos y listas\\ejercicio14.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{85D242CA-C23C-4009-8A0E-B7BB28204288}|Ejercicios arreglos y listas.csproj|solutionrelative:ejercicio14.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85D242CA-C23C-4009-8A0E-B7BB28204288}|Ejercicios arreglos y listas.csproj|c:\\users\\maria\\source\\repos\\ejercicios arreglos y listas\\ejercicio13.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{85D242CA-C23C-4009-8A0E-B7BB28204288}|Ejercicios arreglos y listas.csproj|solutionrelative:ejercicio13.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85D242CA-C23C-4009-8A0E-B7BB28204288}|Ejercicios arreglos y listas.csproj|c:\\users\\maria\\source\\repos\\ejercicios arreglos y listas\\ejercicio1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{85D242CA-C23C-4009-8A0E-B7BB28204288}|Ejercicios arreglos y listas.csproj|solutionrelative:ejercicio1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85D242CA-C23C-4009-8A0E-B7BB28204288}|Ejercicios arreglos y listas.csproj|c:\\users\\maria\\source\\repos\\ejercicios arreglos y listas\\ejercicio12.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{85D242CA-C23C-4009-8A0E-B7BB28204288}|Ejercicios arreglos y listas.csproj|solutionrelative:ejercicio12.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85D242CA-C23C-4009-8A0E-B7BB28204288}|Ejercicios arreglos y listas.csproj|c:\\users\\maria\\source\\repos\\ejercicios arreglos y listas\\ejercicio11.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{85D242CA-C23C-4009-8A0E-B7BB28204288}|Ejercicios arreglos y listas.csproj|solutionrelative:ejercicio11.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85D242CA-C23C-4009-8A0E-B7BB28204288}|Ejercicios arreglos y listas.csproj|c:\\users\\maria\\source\\repos\\ejercicios arreglos y listas\\ejercicio10.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{85D242CA-C23C-4009-8A0E-B7BB28204288}|Ejercicios arreglos y listas.csproj|solutionrelative:ejercicio10.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85D242CA-C23C-4009-8A0E-B7BB28204288}|Ejercicios arreglos y listas.csproj|c:\\users\\maria\\source\\repos\\ejercicios arreglos y listas\\ejercicio7.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{85D242CA-C23C-4009-8A0E-B7BB28204288}|Ejercicios arreglos y listas.csproj|solutionrelative:ejercicio7.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85D242CA-C23C-4009-8A0E-B7BB28204288}|Ejercicios arreglos y listas.csproj|c:\\users\\maria\\source\\repos\\ejercicios arreglos y listas\\ejercicio6.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{85D242CA-C23C-4009-8A0E-B7BB28204288}|Ejercicios arreglos y listas.csproj|solutionrelative:ejercicio6.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85D242CA-C23C-4009-8A0E-B7BB28204288}|Ejercicios arreglos y listas.csproj|c:\\users\\maria\\source\\repos\\ejercicios arreglos y listas\\ejercicio4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{85D242CA-C23C-4009-8A0E-B7BB28204288}|Ejercicios arreglos y listas.csproj|solutionrelative:ejercicio4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85D242CA-C23C-4009-8A0E-B7BB28204288}|Ejercicios arreglos y listas.csproj|c:\\users\\maria\\source\\repos\\ejercicios arreglos y listas\\ejercicio3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{85D242CA-C23C-4009-8A0E-B7BB28204288}|Ejercicios arreglos y listas.csproj|solutionrelative:ejercicio3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85D242CA-C23C-4009-8A0E-B7BB28204288}|Ejercicios arreglos y listas.csproj|c:\\users\\maria\\source\\repos\\ejercicios arreglos y listas\\ejercicio2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{85D242CA-C23C-4009-8A0E-B7BB28204288}|Ejercicios arreglos y listas.csproj|solutionrelative:ejercicio2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85D242CA-C23C-4009-8A0E-B7BB28204288}|Ejercicios arreglos y listas.csproj|c:\\users\\maria\\source\\repos\\ejercicios arreglos y listas\\ejercicio5.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{85D242CA-C23C-4009-8A0E-B7BB28204288}|Ejercicios arreglos y listas.csproj|solutionrelative:ejercicio5.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Ejercicio16.cs",
+              "DocumentMoniker": "C:\\Users\\maria\\source\\repos\\Ejercicios arreglos y listas\\Ejercicio16.cs",
+              "RelativeDocumentMoniker": "Ejercicio16.cs",
+              "ToolTip": "C:\\Users\\maria\\source\\repos\\Ejercicios arreglos y listas\\Ejercicio16.cs",
+              "RelativeToolTip": "Ejercicio16.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-29T21:06:34.551Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Ejercicio15.cs",
+              "DocumentMoniker": "C:\\Users\\maria\\source\\repos\\Ejercicios arreglos y listas\\Ejercicio15.cs",
+              "RelativeDocumentMoniker": "Ejercicio15.cs",
+              "ToolTip": "C:\\Users\\maria\\source\\repos\\Ejercicios arreglos y listas\\Ejercicio15.cs",
+              "RelativeToolTip": "Ejercicio15.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAxwBUAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-29T20:50:42.894Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Ejercicio14.cs",
+              "DocumentMoniker": "C:\\Users\\maria\\source\\repos\\Ejercicios arreglos y listas\\Ejercicio14.cs",
+              "RelativeDocumentMoniker": "Ejercicio14.cs",
+              "ToolTip": "C:\\Users\\maria\\source\\repos\\Ejercicios arreglos y listas\\Ejercicio14.cs",
+              "RelativeToolTip": "Ejercicio14.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAgwBgAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-29T20:39:08.114Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Ejercicio13.cs",
+              "DocumentMoniker": "C:\\Users\\maria\\source\\repos\\Ejercicios arreglos y listas\\Ejercicio13.cs",
+              "RelativeDocumentMoniker": "Ejercicio13.cs",
+              "ToolTip": "C:\\Users\\maria\\source\\repos\\Ejercicios arreglos y listas\\Ejercicio13.cs",
+              "RelativeToolTip": "Ejercicio13.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABEAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-29T20:31:47.322Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Ejercicio1.cs",
+              "DocumentMoniker": "C:\\Users\\maria\\source\\repos\\Ejercicios arreglos y listas\\Ejercicio1.cs",
+              "RelativeDocumentMoniker": "Ejercicio1.cs",
+              "ToolTip": "C:\\Users\\maria\\source\\repos\\Ejercicios arreglos y listas\\Ejercicio1.cs",
+              "RelativeToolTip": "Ejercicio1.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAwAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-22T19:55:53.506Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\maria\\source\\repos\\Ejercicios arreglos y listas\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\maria\\source\\repos\\Ejercicios arreglos y listas\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-22T19:48:53.331Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Ejercicio9.cs",
+              "DocumentMoniker": "C:\\Users\\maria\\source\\repos\\Ejercicios arreglos y listas\\Ejercicio9.cs",
+              "RelativeDocumentMoniker": "Ejercicio9.cs",
+              "ToolTip": "C:\\Users\\maria\\source\\repos\\Ejercicios arreglos y listas\\Ejercicio9.cs",
+              "RelativeToolTip": "Ejercicio9.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAACEAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-23T22:33:47.992Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Ejercicio8.cs",
+              "DocumentMoniker": "C:\\Users\\maria\\source\\repos\\Ejercicios arreglos y listas\\Ejercicio8.cs",
+              "RelativeDocumentMoniker": "Ejercicio8.cs",
+              "ToolTip": "C:\\Users\\maria\\source\\repos\\Ejercicios arreglos y listas\\Ejercicio8.cs",
+              "RelativeToolTip": "Ejercicio8.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAArwBEAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-23T22:27:49.084Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Ejercicio12.cs",
+              "DocumentMoniker": "C:\\Users\\maria\\source\\repos\\Ejercicios arreglos y listas\\Ejercicio12.cs",
+              "RelativeDocumentMoniker": "Ejercicio12.cs",
+              "ToolTip": "C:\\Users\\maria\\source\\repos\\Ejercicios arreglos y listas\\Ejercicio12.cs",
+              "RelativeToolTip": "Ejercicio12.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABIAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-29T20:12:36.811Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Ejercicio11.cs",
+              "DocumentMoniker": "C:\\Users\\maria\\source\\repos\\Ejercicios arreglos y listas\\Ejercicio11.cs",
+              "RelativeDocumentMoniker": "Ejercicio11.cs",
+              "ToolTip": "C:\\Users\\maria\\source\\repos\\Ejercicios arreglos y listas\\Ejercicio11.cs",
+              "RelativeToolTip": "Ejercicio11.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-29T20:06:48.77Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Ejercicios arreglos y listas.csproj",
+              "DocumentMoniker": "C:\\Users\\maria\\source\\repos\\Ejercicios arreglos y listas\\Ejercicios arreglos y listas.csproj",
+              "RelativeDocumentMoniker": "Ejercicios arreglos y listas.csproj",
+              "ToolTip": "C:\\Users\\maria\\source\\repos\\Ejercicios arreglos y listas\\Ejercicios arreglos y listas.csproj",
+              "RelativeToolTip": "Ejercicios arreglos y listas.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-04-22T20:53:53.659Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Ejercicio3.cs",
+              "DocumentMoniker": "C:\\Users\\maria\\source\\repos\\Ejercicios arreglos y listas\\Ejercicio3.cs",
+              "RelativeDocumentMoniker": "Ejercicio3.cs",
+              "ToolTip": "C:\\Users\\maria\\source\\repos\\Ejercicios arreglos y listas\\Ejercicio3.cs",
+              "RelativeToolTip": "Ejercicio3.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABwAAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-22T20:13:33.133Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Ejercicio4.cs",
+              "DocumentMoniker": "C:\\Users\\maria\\source\\repos\\Ejercicios arreglos y listas\\Ejercicio4.cs",
+              "RelativeDocumentMoniker": "Ejercicio4.cs",
+              "ToolTip": "C:\\Users\\maria\\source\\repos\\Ejercicios arreglos y listas\\Ejercicio4.cs",
+              "RelativeToolTip": "Ejercicio4.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAIA6wBUAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-22T20:27:22.041Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Ejercicio7.cs",
+              "DocumentMoniker": "C:\\Users\\maria\\source\\repos\\Ejercicios arreglos y listas\\Ejercicio7.cs",
+              "RelativeDocumentMoniker": "Ejercicio7.cs",
+              "ToolTip": "C:\\Users\\maria\\source\\repos\\Ejercicios arreglos y listas\\Ejercicio7.cs",
+              "RelativeToolTip": "Ejercicio7.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAAABYAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-22T21:18:36.82Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Ejercicio10.cs",
+              "DocumentMoniker": "C:\\Users\\maria\\source\\repos\\Ejercicios arreglos y listas\\Ejercicio10.cs",
+              "RelativeDocumentMoniker": "Ejercicio10.cs",
+              "ToolTip": "C:\\Users\\maria\\source\\repos\\Ejercicios arreglos y listas\\Ejercicio10.cs",
+              "RelativeToolTip": "Ejercicio10.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAxwBAAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-23T22:51:48.432Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Microsoft.Common.CurrentVersion.targets",
+              "DocumentMoniker": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
+              "ToolTip": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
+              "ViewState": "AgIAAOEUAAAAAAAAAAAjwPMUAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003801|",
+              "WhenOpened": "2025-04-29T20:07:43.362Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Ejercicio2.cs",
+              "DocumentMoniker": "C:\\Users\\maria\\source\\repos\\Ejercicios arreglos y listas\\Ejercicio2.cs",
+              "RelativeDocumentMoniker": "Ejercicio2.cs",
+              "ToolTip": "C:\\Users\\maria\\source\\repos\\Ejercicios arreglos y listas\\Ejercicio2.cs",
+              "RelativeToolTip": "Ejercicio2.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA4AAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-22T20:07:48.398Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Ejercicio6.cs",
+              "DocumentMoniker": "C:\\Users\\maria\\source\\repos\\Ejercicios arreglos y listas\\Ejercicio6.cs",
+              "RelativeDocumentMoniker": "Ejercicio6.cs",
+              "ToolTip": "C:\\Users\\maria\\source\\repos\\Ejercicios arreglos y listas\\Ejercicio6.cs",
+              "RelativeToolTip": "Ejercicio6.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABgAAABSAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-22T21:09:25.041Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Ejercicio5.cs",
+              "DocumentMoniker": "C:\\Users\\maria\\source\\repos\\Ejercicios arreglos y listas\\Ejercicio5.cs",
+              "RelativeDocumentMoniker": "Ejercicio5.cs",
+              "ToolTip": "C:\\Users\\maria\\source\\repos\\Ejercicios arreglos y listas\\Ejercicio5.cs",
+              "RelativeToolTip": "Ejercicio5.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABIAAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-22T20:54:07.476Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\maria\\source\\repos\\Practica POO Curso\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4890F1E6-F110-4F5B-A5B1-54A12448FE0B}|Practica POO Curso.csproj|c:\\users\\maria\\source\\repos\\practica poo curso\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4890F1E6-F110-4F5B-A5B1-54A12448FE0B}|Practica POO Curso.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4890F1E6-F110-4F5B-A5B1-54A12448FE0B}|Practica POO Curso.csproj|c:\\users\\maria\\source\\repos\\practica poo curso\\punto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4890F1E6-F110-4F5B-A5B1-54A12448FE0B}|Practica POO Curso.csproj|solutionrelative:punto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Punto.cs",
+              "DocumentMoniker": "C:\\Users\\maria\\source\\repos\\Practica POO Curso\\Punto.cs",
+              "RelativeDocumentMoniker": "Punto.cs",
+              "ToolTip": "C:\\Users\\maria\\source\\repos\\Practica POO Curso\\Punto.cs",
+              "RelativeToolTip": "Punto.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAowCwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-24T10:55:14.886Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\maria\\source\\repos\\Practica POO Curso\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\maria\\source\\repos\\Practica POO Curso\\Program.cs*",
+              "RelativeToolTip": "Program.cs*",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAxwA4AAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-24T10:42:09.202Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

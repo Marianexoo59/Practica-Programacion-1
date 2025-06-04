@@ -1,0 +1,14 @@
+C:\Users\maria\source\repos\PRCATICA\PRCATICA\obj\Debug\net8.0\PRCATICA.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\maria\source\repos\PRCATICA\PRCATICA\obj\Debug\net8.0\PRCATICA.AssemblyInfoInputs.cache
+C:\Users\maria\source\repos\PRCATICA\PRCATICA\obj\Debug\net8.0\PRCATICA.AssemblyInfo.cs
+C:\Users\maria\source\repos\PRCATICA\PRCATICA\obj\Debug\net8.0\PRCATICA.csproj.CoreCompileInputs.cache
+C:\Users\maria\source\repos\PRCATICA\PRCATICA\bin\Debug\net8.0\PRCATICA.exe
+C:\Users\maria\source\repos\PRCATICA\PRCATICA\bin\Debug\net8.0\PRCATICA.deps.json
+C:\Users\maria\source\repos\PRCATICA\PRCATICA\bin\Debug\net8.0\PRCATICA.runtimeconfig.json
+C:\Users\maria\source\repos\PRCATICA\PRCATICA\bin\Debug\net8.0\PRCATICA.dll
+C:\Users\maria\source\repos\PRCATICA\PRCATICA\bin\Debug\net8.0\PRCATICA.pdb
+C:\Users\maria\source\repos\PRCATICA\PRCATICA\obj\Debug\net8.0\PRCATICA.dll
+C:\Users\maria\source\repos\PRCATICA\PRCATICA\obj\Debug\net8.0\refint\PRCATICA.dll
+C:\Users\maria\source\repos\PRCATICA\PRCATICA\obj\Debug\net8.0\PRCATICA.pdb
+C:\Users\maria\source\repos\PRCATICA\PRCATICA\obj\Debug\net8.0\PRCATICA.genruntimeconfig.cache
+C:\Users\maria\source\repos\PRCATICA\PRCATICA\obj\Debug\net8.0\ref\PRCATICA.dll

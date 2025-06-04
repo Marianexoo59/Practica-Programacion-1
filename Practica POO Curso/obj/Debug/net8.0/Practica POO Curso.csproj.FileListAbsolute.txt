@@ -1,0 +1,14 @@
+C:\Users\maria\source\repos\Practica POO Curso\bin\Debug\net8.0\Practica POO Curso.exe
+C:\Users\maria\source\repos\Practica POO Curso\bin\Debug\net8.0\Practica POO Curso.deps.json
+C:\Users\maria\source\repos\Practica POO Curso\bin\Debug\net8.0\Practica POO Curso.runtimeconfig.json
+C:\Users\maria\source\repos\Practica POO Curso\bin\Debug\net8.0\Practica POO Curso.dll
+C:\Users\maria\source\repos\Practica POO Curso\bin\Debug\net8.0\Practica POO Curso.pdb
+C:\Users\maria\source\repos\Practica POO Curso\obj\Debug\net8.0\Practica POO Curso.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\maria\source\repos\Practica POO Curso\obj\Debug\net8.0\Practica POO Curso.AssemblyInfoInputs.cache
+C:\Users\maria\source\repos\Practica POO Curso\obj\Debug\net8.0\Practica POO Curso.AssemblyInfo.cs
+C:\Users\maria\source\repos\Practica POO Curso\obj\Debug\net8.0\Practica POO Curso.csproj.CoreCompileInputs.cache
+C:\Users\maria\source\repos\Practica POO Curso\obj\Debug\net8.0\Practica POO Curso.dll
+C:\Users\maria\source\repos\Practica POO Curso\obj\Debug\net8.0\refint\Practica POO Curso.dll
+C:\Users\maria\source\repos\Practica POO Curso\obj\Debug\net8.0\Practica POO Curso.pdb
+C:\Users\maria\source\repos\Practica POO Curso\obj\Debug\net8.0\Practica POO Curso.genruntimeconfig.cache
+C:\Users\maria\source\repos\Practica POO Curso\obj\Debug\net8.0\ref\Practica POO Curso.dll

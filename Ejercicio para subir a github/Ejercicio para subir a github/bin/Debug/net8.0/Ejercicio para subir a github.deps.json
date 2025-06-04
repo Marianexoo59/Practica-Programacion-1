@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Ejercicio para subir a github/1.0.0": {
+        "runtime": {
+          "Ejercicio para subir a github.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Ejercicio para subir a github/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

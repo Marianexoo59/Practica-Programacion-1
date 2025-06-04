@@ -1,0 +1,14 @@
+C:\Users\maria\source\repos\Ejercicio para subir a github\Ejercicio para subir a github\bin\Debug\net8.0\Ejercicio para subir a github.exe
+C:\Users\maria\source\repos\Ejercicio para subir a github\Ejercicio para subir a github\bin\Debug\net8.0\Ejercicio para subir a github.deps.json
+C:\Users\maria\source\repos\Ejercicio para subir a github\Ejercicio para subir a github\bin\Debug\net8.0\Ejercicio para subir a github.runtimeconfig.json
+C:\Users\maria\source\repos\Ejercicio para subir a github\Ejercicio para subir a github\bin\Debug\net8.0\Ejercicio para subir a github.dll
+C:\Users\maria\source\repos\Ejercicio para subir a github\Ejercicio para subir a github\bin\Debug\net8.0\Ejercicio para subir a github.pdb
+C:\Users\maria\source\repos\Ejercicio para subir a github\Ejercicio para subir a github\obj\Debug\net8.0\Ejercicio para subir a github.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\maria\source\repos\Ejercicio para subir a github\Ejercicio para subir a github\obj\Debug\net8.0\Ejercicio para subir a github.AssemblyInfoInputs.cache
+C:\Users\maria\source\repos\Ejercicio para subir a github\Ejercicio para subir a github\obj\Debug\net8.0\Ejercicio para subir a github.AssemblyInfo.cs
+C:\Users\maria\source\repos\Ejercicio para subir a github\Ejercicio para subir a github\obj\Debug\net8.0\Ejercicio para subir a github.csproj.CoreCompileInputs.cache
+C:\Users\maria\source\repos\Ejercicio para subir a github\Ejercicio para subir a github\obj\Debug\net8.0\Ejercicio para subir a github.dll
+C:\Users\maria\source\repos\Ejercicio para subir a github\Ejercicio para subir a github\obj\Debug\net8.0\refint\Ejercicio para subir a github.dll
+C:\Users\maria\source\repos\Ejercicio para subir a github\Ejercicio para subir a github\obj\Debug\net8.0\Ejercicio para subir a github.pdb
+C:\Users\maria\source\repos\Ejercicio para subir a github\Ejercicio para subir a github\obj\Debug\net8.0\Ejercicio para subir a github.genruntimeconfig.cache
+C:\Users\maria\source\repos\Ejercicio para subir a github\Ejercicio para subir a github\obj\Debug\net8.0\ref\Ejercicio para subir a github.dll
