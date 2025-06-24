@@ -1,0 +1,19 @@
+C:\Users\maria\source\repos\Practica-Programacion-1\Ejercicios Entrega2\Herencia\bin\Debug\net8.0\Ejercitacion POO Programacion.exe
+C:\Users\maria\source\repos\Practica-Programacion-1\Ejercicios Entrega2\Herencia\bin\Debug\net8.0\Ejercitacion POO Programacion.deps.json
+C:\Users\maria\source\repos\Practica-Programacion-1\Ejercicios Entrega2\Herencia\bin\Debug\net8.0\Ejercitacion POO Programacion.runtimeconfig.json
+C:\Users\maria\source\repos\Practica-Programacion-1\Ejercicios Entrega2\Herencia\bin\Debug\net8.0\Ejercitacion POO Programacion.dll
+C:\Users\maria\source\repos\Practica-Programacion-1\Ejercicios Entrega2\Herencia\bin\Debug\net8.0\Ejercitacion POO Programacion.pdb
+C:\Users\maria\source\repos\Practica-Programacion-1\Ejercicios Entrega2\Herencia\bin\Debug\net8.0\Ejemplo clases.dll
+C:\Users\maria\source\repos\Practica-Programacion-1\Ejercicios Entrega2\Herencia\bin\Debug\net8.0\Ejemplo clases.pdb
+C:\Users\maria\source\repos\Practica-Programacion-1\Ejercicios Entrega2\Herencia\obj\Debug\net8.0\Ejercitacion POO Programacion.csproj.AssemblyReference.cache
+C:\Users\maria\source\repos\Practica-Programacion-1\Ejercicios Entrega2\Herencia\obj\Debug\net8.0\Ejercitacion POO Programacion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\maria\source\repos\Practica-Programacion-1\Ejercicios Entrega2\Herencia\obj\Debug\net8.0\Ejercitacion POO Programacion.AssemblyInfoInputs.cache
+C:\Users\maria\source\repos\Practica-Programacion-1\Ejercicios Entrega2\Herencia\obj\Debug\net8.0\Ejercitacion POO Programacion.AssemblyInfo.cs
+C:\Users\maria\source\repos\Practica-Programacion-1\Ejercicios Entrega2\Herencia\obj\Debug\net8.0\Ejercitacion POO Programacion.csproj.CoreCompileInputs.cache
+C:\Users\maria\source\repos\Practica-Programacion-1\Ejercicios Entrega2\Herencia\obj\Debug\net8.0\Ejercitacion POO Programacion.sourcelink.json
+C:\Users\maria\source\repos\Practica-Programacion-1\Ejercicios Entrega2\Herencia\obj\Debug\net8.0\Ejercita.F2FCCA8E.Up2Date
+C:\Users\maria\source\repos\Practica-Programacion-1\Ejercicios Entrega2\Herencia\obj\Debug\net8.0\Ejercitacion POO Programacion.dll
+C:\Users\maria\source\repos\Practica-Programacion-1\Ejercicios Entrega2\Herencia\obj\Debug\net8.0\refint\Ejercitacion POO Programacion.dll
+C:\Users\maria\source\repos\Practica-Programacion-1\Ejercicios Entrega2\Herencia\obj\Debug\net8.0\Ejercitacion POO Programacion.pdb
+C:\Users\maria\source\repos\Practica-Programacion-1\Ejercicios Entrega2\Herencia\obj\Debug\net8.0\Ejercitacion POO Programacion.genruntimeconfig.cache
+C:\Users\maria\source\repos\Practica-Programacion-1\Ejercicios Entrega2\Herencia\obj\Debug\net8.0\ref\Ejercitacion POO Programacion.dll

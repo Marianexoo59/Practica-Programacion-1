@@ -1,0 +1,200 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\maria\\source\\repos\\Practica-Programacion-1\\Ejercicios Entrega2\\Herencia\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6C8A9B4A-0CE0-4DF7-BDBE-E774097F2973}|Ejercitacion POO Programacion.csproj|c:\\users\\maria\\source\\repos\\practica-programacion-1\\ejercicios entrega2\\herencia\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C8A9B4A-0CE0-4DF7-BDBE-E774097F2973}|Ejercitacion POO Programacion.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63B12EFC-229D-4C76-97C0-32807CAE13AC}|..\\Ejemplo clases\\Ejemplo clases.csproj|c:\\users\\maria\\source\\repos\\practica-programacion-1\\ejercicios entrega2\\ejemplo clases\\ejercicio1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63B12EFC-229D-4C76-97C0-32807CAE13AC}|..\\Ejemplo clases\\Ejemplo clases.csproj|c:\\users\\maria\\source\\repos\\practica-programacion-1\\ejercicios entrega2\\ejemplo clases\\persona.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63B12EFC-229D-4C76-97C0-32807CAE13AC}|..\\Ejemplo clases\\Ejemplo clases.csproj|c:\\users\\maria\\source\\repos\\practica-programacion-1\\ejercicios entrega2\\ejemplo clases\\libro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63B12EFC-229D-4C76-97C0-32807CAE13AC}|..\\Ejemplo clases\\Ejemplo clases.csproj|c:\\users\\maria\\source\\repos\\practica-programacion-1\\ejercicios entrega2\\ejemplo clases\\producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63B12EFC-229D-4C76-97C0-32807CAE13AC}|..\\Ejemplo clases\\Ejemplo clases.csproj|c:\\users\\maria\\source\\repos\\practica-programacion-1\\ejercicios entrega2\\ejemplo clases\\autos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63B12EFC-229D-4C76-97C0-32807CAE13AC}|..\\Ejemplo clases\\Ejemplo clases.csproj|c:\\users\\maria\\source\\repos\\practica-programacion-1\\ejercicios entrega2\\ejemplo clases\\empleado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63B12EFC-229D-4C76-97C0-32807CAE13AC}|..\\Ejemplo clases\\Ejemplo clases.csproj|c:\\users\\maria\\source\\repos\\practica-programacion-1\\ejercicios entrega2\\ejemplo clases\\ejemplo clases.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63B12EFC-229D-4C76-97C0-32807CAE13AC}|..\\Ejemplo clases\\Ejemplo clases.csproj|c:\\users\\maria\\source\\repos\\practica-programacion-1\\ejercicios entrega2\\ejemplo clases\\area.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63B12EFC-229D-4C76-97C0-32807CAE13AC}|..\\Ejemplo clases\\Ejemplo clases.csproj|c:\\users\\maria\\source\\repos\\practica-programacion-1\\ejercicios entrega2\\ejemplo clases\\animal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C8A9B4A-0CE0-4DF7-BDBE-E774097F2973}|Ejercitacion POO Programacion.csproj|c:\\users\\maria\\source\\repos\\practica-programacion-1\\ejercicios entrega2\\herencia\\ejercitacion poo programacion.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{6C8A9B4A-0CE0-4DF7-BDBE-E774097F2973}|Ejercitacion POO Programacion.csproj|solutionrelative:ejercitacion poo programacion.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Persona.cs",
+              "DocumentMoniker": "C:\\Users\\maria\\source\\repos\\Practica-Programacion-1\\Ejercicios Entrega2\\Ejemplo clases\\Persona.cs",
+              "RelativeDocumentMoniker": "..\\Ejemplo clases\\Persona.cs",
+              "ToolTip": "C:\\Users\\maria\\source\\repos\\Practica-Programacion-1\\Ejercicios Entrega2\\Ejemplo clases\\Persona.cs",
+              "RelativeToolTip": "..\\Ejemplo clases\\Persona.cs",
+              "ViewState": "AgIAACMAAAAAAAAAAAAAwCgAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-11T23:24:04.3Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Producto.cs",
+              "DocumentMoniker": "C:\\Users\\maria\\source\\repos\\Practica-Programacion-1\\Ejercicios Entrega2\\Ejemplo clases\\Producto.cs",
+              "RelativeDocumentMoniker": "..\\Ejemplo clases\\Producto.cs",
+              "ToolTip": "C:\\Users\\maria\\source\\repos\\Practica-Programacion-1\\Ejercicios Entrega2\\Ejemplo clases\\Producto.cs",
+              "RelativeToolTip": "..\\Ejemplo clases\\Producto.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAIwCkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-11T23:02:32.798Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Libro.cs",
+              "DocumentMoniker": "C:\\Users\\maria\\source\\repos\\Practica-Programacion-1\\Ejercicios Entrega2\\Ejemplo clases\\Libro.cs",
+              "RelativeDocumentMoniker": "..\\Ejemplo clases\\Libro.cs",
+              "ToolTip": "C:\\Users\\maria\\source\\repos\\Practica-Programacion-1\\Ejercicios Entrega2\\Ejemplo clases\\Libro.cs",
+              "RelativeToolTip": "..\\Ejemplo clases\\Libro.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAwwBEAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-11T22:36:16.318Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Area.cs",
+              "DocumentMoniker": "C:\\Users\\maria\\source\\repos\\Practica-Programacion-1\\Ejercicios Entrega2\\Ejemplo clases\\Area.cs",
+              "RelativeDocumentMoniker": "..\\Ejemplo clases\\Area.cs",
+              "ToolTip": "C:\\Users\\maria\\source\\repos\\Practica-Programacion-1\\Ejercicios Entrega2\\Ejemplo clases\\Area.cs",
+              "RelativeToolTip": "..\\Ejemplo clases\\Area.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAC8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-11T21:54:12.878Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Autos.cs",
+              "DocumentMoniker": "C:\\Users\\maria\\source\\repos\\Practica-Programacion-1\\Ejercicios Entrega2\\Ejemplo clases\\Autos.cs",
+              "RelativeDocumentMoniker": "..\\Ejemplo clases\\Autos.cs",
+              "ToolTip": "C:\\Users\\maria\\source\\repos\\Practica-Programacion-1\\Ejercicios Entrega2\\Ejemplo clases\\Autos.cs",
+              "RelativeToolTip": "..\\Ejemplo clases\\Autos.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-11T20:33:54.722Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Ejemplo clases.csproj",
+              "DocumentMoniker": "C:\\Users\\maria\\source\\repos\\Practica-Programacion-1\\Ejercicios Entrega2\\Ejemplo clases\\Ejemplo clases.csproj",
+              "RelativeDocumentMoniker": "..\\Ejemplo clases\\Ejemplo clases.csproj",
+              "ToolTip": "C:\\Users\\maria\\source\\repos\\Practica-Programacion-1\\Ejercicios Entrega2\\Ejemplo clases\\Ejemplo clases.csproj",
+              "RelativeToolTip": "..\\Ejemplo clases\\Ejemplo clases.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-06-10T20:13:42.117Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Ejercicio1.cs",
+              "DocumentMoniker": "C:\\Users\\maria\\source\\repos\\Practica-Programacion-1\\Ejercicios Entrega2\\Ejemplo clases\\Ejercicio1.cs",
+              "RelativeDocumentMoniker": "..\\Ejemplo clases\\Ejercicio1.cs",
+              "ToolTip": "C:\\Users\\maria\\source\\repos\\Practica-Programacion-1\\Ejercicios Entrega2\\Ejemplo clases\\Ejercicio1.cs",
+              "RelativeToolTip": "..\\Ejemplo clases\\Ejercicio1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-10T20:12:53.029Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Empleado.cs",
+              "DocumentMoniker": "C:\\Users\\maria\\source\\repos\\Practica-Programacion-1\\Ejercicios Entrega2\\Ejemplo clases\\Empleado.cs",
+              "RelativeDocumentMoniker": "..\\Ejemplo clases\\Empleado.cs",
+              "ToolTip": "C:\\Users\\maria\\source\\repos\\Practica-Programacion-1\\Ejercicios Entrega2\\Ejemplo clases\\Empleado.cs",
+              "RelativeToolTip": "..\\Ejemplo clases\\Empleado.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-10T20:41:37.4Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\maria\\source\\repos\\Practica-Programacion-1\\Ejercicios Entrega2\\Herencia\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\maria\\source\\repos\\Practica-Programacion-1\\Ejercicios Entrega2\\Herencia\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAADsAAAAAAAAAAAD4v00AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-10T20:11:35.482Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Ejercitacion POO Programacion.csproj",
+              "DocumentMoniker": "C:\\Users\\maria\\source\\repos\\Practica-Programacion-1\\Ejercicios Entrega2\\Herencia\\Ejercitacion POO Programacion.csproj",
+              "RelativeDocumentMoniker": "Ejercitacion POO Programacion.csproj",
+              "ToolTip": "C:\\Users\\maria\\source\\repos\\Practica-Programacion-1\\Ejercicios Entrega2\\Herencia\\Ejercitacion POO Programacion.csproj",
+              "RelativeToolTip": "Ejercitacion POO Programacion.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-06-10T20:13:32.595Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Animal.cs",
+              "DocumentMoniker": "C:\\Users\\maria\\source\\repos\\Practica-Programacion-1\\Ejercicios Entrega2\\Ejemplo clases\\Animal.cs",
+              "RelativeDocumentMoniker": "..\\Ejemplo clases\\Animal.cs",
+              "ToolTip": "C:\\Users\\maria\\source\\repos\\Practica-Programacion-1\\Ejercicios Entrega2\\Ejemplo clases\\Animal.cs",
+              "RelativeToolTip": "..\\Ejemplo clases\\Animal.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAAAB4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-11T20:08:17.93Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
