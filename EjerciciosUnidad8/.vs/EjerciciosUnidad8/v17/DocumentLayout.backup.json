@@ -1,0 +1,172 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Mariano\\source\\repos\\EjerciciosUnidad8\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C7AEACE3-96EF-4539-9FF7-F4F126FAEFDC}|EjerciciosUnidad8.csproj|c:\\users\\mariano\\source\\repos\\ejerciciosunidad8\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C7AEACE3-96EF-4539-9FF7-F4F126FAEFDC}|EjerciciosUnidad8.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F53CD8A8-813F-4EDA-A6DB-FEDF1C77C647}|..\\Ejercicios\\Ejercicios.csproj|c:\\users\\mariano\\source\\repos\\ejercicios\\alumnos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F53CD8A8-813F-4EDA-A6DB-FEDF1C77C647}|..\\Ejercicios\\Ejercicios.csproj|c:\\users\\mariano\\source\\repos\\ejercicios\\animal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F53CD8A8-813F-4EDA-A6DB-FEDF1C77C647}|..\\Ejercicios\\Ejercicios.csproj|c:\\users\\mariano\\source\\repos\\ejercicios\\vehiculo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F53CD8A8-813F-4EDA-A6DB-FEDF1C77C647}|..\\Ejercicios\\Ejercicios.csproj|c:\\users\\mariano\\source\\repos\\ejercicios\\ejercicios.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F53CD8A8-813F-4EDA-A6DB-FEDF1C77C647}|..\\Ejercicios\\Ejercicios.csproj|c:\\users\\mariano\\source\\repos\\ejercicios\\empleado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F53CD8A8-813F-4EDA-A6DB-FEDF1C77C647}|..\\Ejercicios\\Ejercicios.csproj|c:\\users\\mariano\\source\\repos\\ejercicios\\persona.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7AEACE3-96EF-4539-9FF7-F4F126FAEFDC}|EjerciciosUnidad8.csproj|c:\\users\\mariano\\source\\repos\\ejerciciosunidad8\\ejerciciosunidad8.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{C7AEACE3-96EF-4539-9FF7-F4F126FAEFDC}|EjerciciosUnidad8.csproj|solutionrelative:ejerciciosunidad8.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7AEACE3-96EF-4539-9FF7-F4F126FAEFDC}|EjerciciosUnidad8.csproj|c:\\users\\mariano\\source\\repos\\ejerciciosunidad8\\ejerciciosunidad8.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{C7AEACE3-96EF-4539-9FF7-F4F126FAEFDC}|EjerciciosUnidad8.csproj|solutionrelative:ejerciciosunidad8.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Alumnos.cs",
+              "DocumentMoniker": "C:\\Users\\Mariano\\source\\repos\\Ejercicios\\Alumnos.cs",
+              "RelativeDocumentMoniker": "..\\Ejercicios\\Alumnos.cs",
+              "ToolTip": "C:\\Users\\Mariano\\source\\repos\\Ejercicios\\Alumnos.cs",
+              "RelativeToolTip": "..\\Ejercicios\\Alumnos.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-24T00:29:45.83Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Vehiculo.cs",
+              "DocumentMoniker": "C:\\Users\\Mariano\\source\\repos\\Ejercicios\\Vehiculo.cs",
+              "RelativeDocumentMoniker": "..\\Ejercicios\\Vehiculo.cs",
+              "ToolTip": "C:\\Users\\Mariano\\source\\repos\\Ejercicios\\Vehiculo.cs",
+              "RelativeToolTip": "..\\Ejercicios\\Vehiculo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-24T00:24:26.917Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Empleado.cs",
+              "DocumentMoniker": "C:\\Users\\Mariano\\source\\repos\\Ejercicios\\Empleado.cs",
+              "RelativeDocumentMoniker": "..\\Ejercicios\\Empleado.cs",
+              "ToolTip": "C:\\Users\\Mariano\\source\\repos\\Ejercicios\\Empleado.cs",
+              "RelativeToolTip": "..\\Ejercicios\\Empleado.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABMAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-23T23:48:26.429Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Persona.cs",
+              "DocumentMoniker": "C:\\Users\\Mariano\\source\\repos\\Ejercicios\\Persona.cs",
+              "RelativeDocumentMoniker": "..\\Ejercicios\\Persona.cs",
+              "ToolTip": "C:\\Users\\Mariano\\source\\repos\\Ejercicios\\Persona.cs",
+              "RelativeToolTip": "..\\Ejercicios\\Persona.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAABNAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-23T23:15:12.99Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "EjerciciosUnidad8",
+              "DocumentMoniker": "C:\\Users\\Mariano\\source\\repos\\EjerciciosUnidad8\\EjerciciosUnidad8.csproj",
+              "RelativeDocumentMoniker": "EjerciciosUnidad8.csproj",
+              "ToolTip": "C:\\Users\\Mariano\\source\\repos\\EjerciciosUnidad8\\EjerciciosUnidad8.csproj",
+              "RelativeToolTip": "EjerciciosUnidad8.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-06-23T23:07:29.143Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "EjerciciosUnidad8.csproj",
+              "DocumentMoniker": "C:\\Users\\Mariano\\source\\repos\\EjerciciosUnidad8\\EjerciciosUnidad8.csproj",
+              "RelativeDocumentMoniker": "EjerciciosUnidad8.csproj",
+              "ToolTip": "C:\\Users\\Mariano\\source\\repos\\EjerciciosUnidad8\\EjerciciosUnidad8.csproj",
+              "RelativeToolTip": "EjerciciosUnidad8.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-06-23T22:53:52.369Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Ejercicios.csproj",
+              "DocumentMoniker": "C:\\Users\\Mariano\\source\\repos\\Ejercicios\\Ejercicios.csproj",
+              "RelativeDocumentMoniker": "..\\Ejercicios\\Ejercicios.csproj",
+              "ToolTip": "C:\\Users\\Mariano\\source\\repos\\Ejercicios\\Ejercicios.csproj",
+              "RelativeToolTip": "..\\Ejercicios\\Ejercicios.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-06-23T22:53:58.603Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Animal.cs",
+              "DocumentMoniker": "C:\\Users\\Mariano\\source\\repos\\Ejercicios\\Animal.cs",
+              "RelativeDocumentMoniker": "..\\Ejercicios\\Animal.cs",
+              "ToolTip": "C:\\Users\\Mariano\\source\\repos\\Ejercicios\\Animal.cs",
+              "RelativeToolTip": "..\\Ejercicios\\Animal.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-23T22:39:28.969Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Mariano\\source\\repos\\EjerciciosUnidad8\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Mariano\\source\\repos\\EjerciciosUnidad8\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAADgvyAAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-23T22:36:57.007Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
