@@ -1,0 +1,11 @@
+C:\Users\Mariano\source\repos\Ejercicios\bin\Debug\net8.0\Ejercicios.deps.json
+C:\Users\Mariano\source\repos\Ejercicios\bin\Debug\net8.0\Ejercicios.dll
+C:\Users\Mariano\source\repos\Ejercicios\bin\Debug\net8.0\Ejercicios.pdb
+C:\Users\Mariano\source\repos\Ejercicios\obj\Debug\net8.0\Ejercicios.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mariano\source\repos\Ejercicios\obj\Debug\net8.0\Ejercicios.AssemblyInfoInputs.cache
+C:\Users\Mariano\source\repos\Ejercicios\obj\Debug\net8.0\Ejercicios.AssemblyInfo.cs
+C:\Users\Mariano\source\repos\Ejercicios\obj\Debug\net8.0\Ejercicios.csproj.CoreCompileInputs.cache
+C:\Users\Mariano\source\repos\Ejercicios\obj\Debug\net8.0\Ejercicios.dll
+C:\Users\Mariano\source\repos\Ejercicios\obj\Debug\net8.0\refint\Ejercicios.dll
+C:\Users\Mariano\source\repos\Ejercicios\obj\Debug\net8.0\Ejercicios.pdb
+C:\Users\Mariano\source\repos\Ejercicios\obj\Debug\net8.0\ref\Ejercicios.dll
