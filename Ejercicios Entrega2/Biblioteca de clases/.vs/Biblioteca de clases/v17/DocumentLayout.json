@@ -1,0 +1,188 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\maria\\source\\repos\\Practica-Programacion-1\\Ejercicios Entrega2\\Biblioteca de clases\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3E5B8405-1C40-447E-B99E-FE5F38D64C8F}|..\\Program.cs\\Program.cs.csproj|c:\\users\\maria\\source\\repos\\practica-programacion-1\\ejercicios entrega2\\program.cs\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4180E7E9-D760-457A-856A-7741F2F0FD8B}|Biblioteca de clases.csproj|c:\\users\\maria\\source\\repos\\practica-programacion-1\\ejercicios entrega2\\biblioteca de clases\\ejercicio9.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4180E7E9-D760-457A-856A-7741F2F0FD8B}|Biblioteca de clases.csproj|solutionrelative:ejercicio9.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4180E7E9-D760-457A-856A-7741F2F0FD8B}|Biblioteca de clases.csproj|c:\\users\\maria\\source\\repos\\practica-programacion-1\\ejercicios entrega2\\biblioteca de clases\\ejercicio8.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4180E7E9-D760-457A-856A-7741F2F0FD8B}|Biblioteca de clases.csproj|solutionrelative:ejercicio8.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4180E7E9-D760-457A-856A-7741F2F0FD8B}|Biblioteca de clases.csproj|c:\\users\\maria\\source\\repos\\practica-programacion-1\\ejercicios entrega2\\biblioteca de clases\\ejercicio7.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4180E7E9-D760-457A-856A-7741F2F0FD8B}|Biblioteca de clases.csproj|solutionrelative:ejercicio7.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4180E7E9-D760-457A-856A-7741F2F0FD8B}|Biblioteca de clases.csproj|c:\\users\\maria\\source\\repos\\practica-programacion-1\\ejercicios entrega2\\biblioteca de clases\\ejercicio6.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4180E7E9-D760-457A-856A-7741F2F0FD8B}|Biblioteca de clases.csproj|solutionrelative:ejercicio6.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4180E7E9-D760-457A-856A-7741F2F0FD8B}|Biblioteca de clases.csproj|c:\\users\\maria\\source\\repos\\practica-programacion-1\\ejercicios entrega2\\biblioteca de clases\\ejercicio5.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4180E7E9-D760-457A-856A-7741F2F0FD8B}|Biblioteca de clases.csproj|solutionrelative:ejercicio5.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4180E7E9-D760-457A-856A-7741F2F0FD8B}|Biblioteca de clases.csproj|c:\\users\\maria\\source\\repos\\practica-programacion-1\\ejercicios entrega2\\biblioteca de clases\\ejercicio4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4180E7E9-D760-457A-856A-7741F2F0FD8B}|Biblioteca de clases.csproj|solutionrelative:ejercicio4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4180E7E9-D760-457A-856A-7741F2F0FD8B}|Biblioteca de clases.csproj|c:\\users\\maria\\source\\repos\\practica-programacion-1\\ejercicios entrega2\\biblioteca de clases\\ejercicio3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4180E7E9-D760-457A-856A-7741F2F0FD8B}|Biblioteca de clases.csproj|solutionrelative:ejercicio3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4180E7E9-D760-457A-856A-7741F2F0FD8B}|Biblioteca de clases.csproj|c:\\users\\maria\\source\\repos\\practica-programacion-1\\ejercicios entrega2\\biblioteca de clases\\ejercicio1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4180E7E9-D760-457A-856A-7741F2F0FD8B}|Biblioteca de clases.csproj|solutionrelative:ejercicio1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4180E7E9-D760-457A-856A-7741F2F0FD8B}|Biblioteca de clases.csproj|c:\\users\\maria\\source\\repos\\practica-programacion-1\\ejercicios entrega2\\biblioteca de clases\\ejercicio2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4180E7E9-D760-457A-856A-7741F2F0FD8B}|Biblioteca de clases.csproj|solutionrelative:ejercicio2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Ejercicio9.cs",
+              "DocumentMoniker": "C:\\Users\\maria\\source\\repos\\Practica-Programacion-1\\Ejercicios Entrega2\\Biblioteca de clases\\Ejercicio9.cs",
+              "RelativeDocumentMoniker": "Ejercicio9.cs",
+              "ToolTip": "C:\\Users\\maria\\source\\repos\\Practica-Programacion-1\\Ejercicios Entrega2\\Biblioteca de clases\\Ejercicio9.cs",
+              "RelativeToolTip": "Ejercicio9.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAowCAAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-25T10:40:22.948Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Ejercicio8.cs",
+              "DocumentMoniker": "C:\\Users\\maria\\source\\repos\\Practica-Programacion-1\\Ejercicios Entrega2\\Biblioteca de clases\\Ejercicio8.cs",
+              "RelativeDocumentMoniker": "Ejercicio8.cs",
+              "ToolTip": "C:\\Users\\maria\\source\\repos\\Practica-Programacion-1\\Ejercicios Entrega2\\Biblioteca de clases\\Ejercicio8.cs",
+              "RelativeToolTip": "Ejercicio8.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAAAAwCwAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-25T10:34:18.236Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Ejercicio7.cs",
+              "DocumentMoniker": "C:\\Users\\maria\\source\\repos\\Practica-Programacion-1\\Ejercicios Entrega2\\Biblioteca de clases\\Ejercicio7.cs",
+              "RelativeDocumentMoniker": "Ejercicio7.cs",
+              "ToolTip": "C:\\Users\\maria\\source\\repos\\Practica-Programacion-1\\Ejercicios Entrega2\\Biblioteca de clases\\Ejercicio7.cs",
+              "RelativeToolTip": "Ejercicio7.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAA9wB8AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-25T10:29:14.821Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Ejercicio6.cs",
+              "DocumentMoniker": "C:\\Users\\maria\\source\\repos\\Practica-Programacion-1\\Ejercicios Entrega2\\Biblioteca de clases\\Ejercicio6.cs",
+              "RelativeDocumentMoniker": "Ejercicio6.cs",
+              "ToolTip": "C:\\Users\\maria\\source\\repos\\Practica-Programacion-1\\Ejercicios Entrega2\\Biblioteca de clases\\Ejercicio6.cs",
+              "RelativeToolTip": "Ejercicio6.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAIwCYAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-25T10:23:00.983Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Ejercicio5.cs",
+              "DocumentMoniker": "C:\\Users\\maria\\source\\repos\\Practica-Programacion-1\\Ejercicios Entrega2\\Biblioteca de clases\\Ejercicio5.cs",
+              "RelativeDocumentMoniker": "Ejercicio5.cs",
+              "ToolTip": "C:\\Users\\maria\\source\\repos\\Practica-Programacion-1\\Ejercicios Entrega2\\Biblioteca de clases\\Ejercicio5.cs",
+              "RelativeToolTip": "Ejercicio5.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAwwCIAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-24T20:51:56.333Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Ejercicio4.cs",
+              "DocumentMoniker": "C:\\Users\\maria\\source\\repos\\Practica-Programacion-1\\Ejercicios Entrega2\\Biblioteca de clases\\Ejercicio4.cs",
+              "RelativeDocumentMoniker": "Ejercicio4.cs",
+              "ToolTip": "C:\\Users\\maria\\source\\repos\\Practica-Programacion-1\\Ejercicios Entrega2\\Biblioteca de clases\\Ejercicio4.cs",
+              "RelativeToolTip": "Ejercicio4.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-24T20:47:00.381Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Ejercicio3.cs",
+              "DocumentMoniker": "C:\\Users\\maria\\source\\repos\\Practica-Programacion-1\\Ejercicios Entrega2\\Biblioteca de clases\\Ejercicio3.cs",
+              "RelativeDocumentMoniker": "Ejercicio3.cs",
+              "ToolTip": "C:\\Users\\maria\\source\\repos\\Practica-Programacion-1\\Ejercicios Entrega2\\Biblioteca de clases\\Ejercicio3.cs",
+              "RelativeToolTip": "Ejercicio3.cs",
+              "ViewState": "AgIAACMAAAAAAAAAAAAAwCYAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-24T20:35:21.015Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Ejercicio2.cs",
+              "DocumentMoniker": "C:\\Users\\maria\\source\\repos\\Practica-Programacion-1\\Ejercicios Entrega2\\Biblioteca de clases\\Ejercicio2.cs",
+              "RelativeDocumentMoniker": "Ejercicio2.cs",
+              "ToolTip": "C:\\Users\\maria\\source\\repos\\Practica-Programacion-1\\Ejercicios Entrega2\\Biblioteca de clases\\Ejercicio2.cs",
+              "RelativeToolTip": "Ejercicio2.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAIwBEAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-24T20:25:11.172Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\maria\\source\\repos\\Practica-Programacion-1\\Ejercicios Entrega2\\Program.cs\\Program.cs",
+              "RelativeDocumentMoniker": "..\\Program.cs\\Program.cs",
+              "ToolTip": "C:\\Users\\maria\\source\\repos\\Practica-Programacion-1\\Ejercicios Entrega2\\Program.cs\\Program.cs",
+              "RelativeToolTip": "..\\Program.cs\\Program.cs",
+              "ViewState": "AgIAAEwAAAAAAAAAAAAgwFoAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-24T19:58:37.003Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Ejercicio1.cs",
+              "DocumentMoniker": "C:\\Users\\maria\\source\\repos\\Practica-Programacion-1\\Ejercicios Entrega2\\Biblioteca de clases\\Ejercicio1.cs",
+              "RelativeDocumentMoniker": "Ejercicio1.cs",
+              "ToolTip": "C:\\Users\\maria\\source\\repos\\Practica-Programacion-1\\Ejercicios Entrega2\\Biblioteca de clases\\Ejercicio1.cs",
+              "RelativeToolTip": "Ejercicio1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-24T19:57:59.609Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

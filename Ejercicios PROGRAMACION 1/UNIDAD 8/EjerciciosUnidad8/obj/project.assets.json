@@ -1,49 +1,32 @@
 {
   "version": 3,
   "targets": {
-    "net8.0": {
-      "Ejercicios/1.0.0": {
-        "type": "project",
-        "framework": ".NETCoreApp,Version=v8.0",
-        "compile": {
-          "bin/placeholder/Ejercicios.dll": {}
-        },
-        "runtime": {
-          "bin/placeholder/Ejercicios.dll": {}
-        }
-      }
-    }
+    "net8.0": {}
   },
-  "libraries": {
-    "Ejercicios/1.0.0": {
-      "type": "project",
-      "path": "../Ejercicios/Ejercicios.csproj",
-      "msbuildProject": "../Ejercicios/Ejercicios.csproj"
-    }
-  },
+  "libraries": {},
   "projectFileDependencyGroups": {
     "net8.0": [
-      "Ejercicios >= 1.0.0"
+      "C:\\Users\\maria\\source\\repos\\Practica-Programacion-1\\Ejercicios PROGRAMACION 1\\UNIDAD 8\\Ejercicios\\Ejercicios.csproj"
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Mariano\\.nuget\\packages\\": {},
+    "C:\\Users\\maria\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Mariano\\source\\repos\\EjerciciosUnidad8\\EjerciciosUnidad8.csproj",
+      "projectUniqueName": "C:\\Users\\maria\\source\\repos\\Practica-Programacion-1\\Ejercicios PROGRAMACION 1\\UNIDAD 8\\EjerciciosUnidad8\\EjerciciosUnidad8.csproj",
       "projectName": "EjerciciosUnidad8",
-      "projectPath": "C:\\Users\\Mariano\\source\\repos\\EjerciciosUnidad8\\EjerciciosUnidad8.csproj",
-      "packagesPath": "C:\\Users\\Mariano\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Mariano\\source\\repos\\EjerciciosUnidad8\\obj\\",
+      "projectPath": "C:\\Users\\maria\\source\\repos\\Practica-Programacion-1\\Ejercicios PROGRAMACION 1\\UNIDAD 8\\EjerciciosUnidad8\\EjerciciosUnidad8.csproj",
+      "packagesPath": "C:\\Users\\maria\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\maria\\source\\repos\\Practica-Programacion-1\\Ejercicios PROGRAMACION 1\\UNIDAD 8\\EjerciciosUnidad8\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\Mariano\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\maria\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
@@ -58,8 +41,8 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "C:\\Users\\Mariano\\source\\repos\\Ejercicios\\Ejercicios.csproj": {
-              "projectPath": "C:\\Users\\Mariano\\source\\repos\\Ejercicios\\Ejercicios.csproj"
+            "C:\\Users\\maria\\source\\repos\\Practica-Programacion-1\\Ejercicios PROGRAMACION 1\\UNIDAD 8\\Ejercicios\\Ejercicios.csproj": {
+              "projectPath": "C:\\Users\\maria\\source\\repos\\Practica-Programacion-1\\Ejercicios PROGRAMACION 1\\UNIDAD 8\\Ejercicios\\Ejercicios.csproj"
             }
           }
         }
@@ -74,7 +57,7 @@
         "auditLevel": "low",
         "auditMode": "direct"
       },
-      "SdkAnalysisLevel": "9.0.300"
+      "SdkAnalysisLevel": "9.0.200"
     },
     "frameworks": {
       "net8.0": {
@@ -95,8 +78,19 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.300/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.201/PortableRuntimeIdentifierGraph.json"
       }
     }
-  }
+  },
+  "logs": [
+    {
+      "code": "NU1104",
+      "level": "Error",
+      "message": "No se encuentra el proyecto \"C:\\Users\\maria\\source\\repos\\Practica-Programacion-1\\Ejercicios PROGRAMACION 1\\UNIDAD 8\\Ejercicios\\Ejercicios.csproj\". Compruebe que la referencia al proyecto sea válida y que exista el archivo de proyecto.",
+      "libraryId": "C:\\Users\\maria\\source\\repos\\Practica-Programacion-1\\Ejercicios PROGRAMACION 1\\UNIDAD 8\\Ejercicios\\Ejercicios.csproj",
+      "targetGraphs": [
+        "net8.0"
+      ]
+    }
+  ]
 }

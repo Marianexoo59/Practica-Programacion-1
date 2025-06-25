@@ -1,0 +1,19 @@
+C:\Users\maria\source\repos\Practica-Programacion-1\Ejercicios Entrega2\Program.cs\bin\Debug\net8.0\Program.cs.exe
+C:\Users\maria\source\repos\Practica-Programacion-1\Ejercicios Entrega2\Program.cs\bin\Debug\net8.0\Program.cs.deps.json
+C:\Users\maria\source\repos\Practica-Programacion-1\Ejercicios Entrega2\Program.cs\bin\Debug\net8.0\Program.cs.runtimeconfig.json
+C:\Users\maria\source\repos\Practica-Programacion-1\Ejercicios Entrega2\Program.cs\bin\Debug\net8.0\Program.cs.dll
+C:\Users\maria\source\repos\Practica-Programacion-1\Ejercicios Entrega2\Program.cs\bin\Debug\net8.0\Program.cs.pdb
+C:\Users\maria\source\repos\Practica-Programacion-1\Ejercicios Entrega2\Program.cs\bin\Debug\net8.0\Biblioteca de clases.dll
+C:\Users\maria\source\repos\Practica-Programacion-1\Ejercicios Entrega2\Program.cs\bin\Debug\net8.0\Biblioteca de clases.pdb
+C:\Users\maria\source\repos\Practica-Programacion-1\Ejercicios Entrega2\Program.cs\obj\Debug\net8.0\Program.cs.csproj.AssemblyReference.cache
+C:\Users\maria\source\repos\Practica-Programacion-1\Ejercicios Entrega2\Program.cs\obj\Debug\net8.0\Program.cs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\maria\source\repos\Practica-Programacion-1\Ejercicios Entrega2\Program.cs\obj\Debug\net8.0\Program.cs.AssemblyInfoInputs.cache
+C:\Users\maria\source\repos\Practica-Programacion-1\Ejercicios Entrega2\Program.cs\obj\Debug\net8.0\Program.cs.AssemblyInfo.cs
+C:\Users\maria\source\repos\Practica-Programacion-1\Ejercicios Entrega2\Program.cs\obj\Debug\net8.0\Program.cs.csproj.CoreCompileInputs.cache
+C:\Users\maria\source\repos\Practica-Programacion-1\Ejercicios Entrega2\Program.cs\obj\Debug\net8.0\Program.cs.sourcelink.json
+C:\Users\maria\source\repos\Practica-Programacion-1\Ejercicios Entrega2\Program.cs\obj\Debug\net8.0\Program.cs.csproj.Up2Date
+C:\Users\maria\source\repos\Practica-Programacion-1\Ejercicios Entrega2\Program.cs\obj\Debug\net8.0\Program.cs.dll
+C:\Users\maria\source\repos\Practica-Programacion-1\Ejercicios Entrega2\Program.cs\obj\Debug\net8.0\refint\Program.cs.dll
+C:\Users\maria\source\repos\Practica-Programacion-1\Ejercicios Entrega2\Program.cs\obj\Debug\net8.0\Program.cs.pdb
+C:\Users\maria\source\repos\Practica-Programacion-1\Ejercicios Entrega2\Program.cs\obj\Debug\net8.0\Program.cs.genruntimeconfig.cache
+C:\Users\maria\source\repos\Practica-Programacion-1\Ejercicios Entrega2\Program.cs\obj\Debug\net8.0\ref\Program.cs.dll
