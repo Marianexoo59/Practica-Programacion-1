@@ -17,13 +17,13 @@ namespace Program.cs
             //    metodo.Pagar(345);
             //}
 
-            // EJERCICIO 2
-            //Leon leonsito = new Leon();
-            //leonsito.Reproducirse();
-            //Gallina gallinita = new Gallina();
-            //gallinita.Reproducirse();
-            //Pez pecesito = new Pez();
-            //pecesito.Reproducirse();
+            //EJERCICIO 2
+            Leon leonsito = new Leon();
+            leonsito.Reproducirse();
+            Gallina gallinita = new Gallina();
+            gallinita.Reproducirse();
+            Pez pecesito = new Pez();
+            pecesito.Reproducirse();
 
             // EJERCICIO 3
             //Impresora impresora = new Impresora();
@@ -81,7 +81,7 @@ namespace Program.cs
 
             //EJERCICIO 9
             //List<IImprimible> lista = new List<IImprimible>();
-            
+
             //    Factura factura = new Factura();
             //    factura.Imprimir();
             //    lista.Add(factura);
@@ -91,7 +91,7 @@ namespace Program.cs
             //    Etiqueta etiqueta = new Etiqueta();
             //    etiqueta.Imprimir();
             //    lista.Add(etiqueta);
-            
+
         }
     }
 }

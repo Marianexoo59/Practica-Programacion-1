@@ -9,6 +9,7 @@
 
   <ItemGroup>
     <ProjectReference Include="..\Biblioteca de clases\Biblioteca de clases.csproj" />
+    <ProjectReference Include="..\Mas ejercicios PROGRAMACION\Biblioteca de clases.csproj" />
   </ItemGroup>
 
 </Project>

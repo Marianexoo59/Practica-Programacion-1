@@ -17,33 +17,34 @@
   "libraries": {
     "Biblioteca de clases/1.0.0": {
       "type": "project",
-      "path": "../Biblioteca de clases/Biblioteca de clases.csproj",
-      "msbuildProject": "../Biblioteca de clases/Biblioteca de clases.csproj"
+      "path": "../Mas ejercicios PROGRAMACION/Biblioteca de clases.csproj",
+      "msbuildProject": "../Mas ejercicios PROGRAMACION/Biblioteca de clases.csproj"
     }
   },
   "projectFileDependencyGroups": {
     "net8.0": [
-      "Biblioteca de clases >= 1.0.0"
+      "Biblioteca de clases >= 1.0.0",
+      "C:\\Users\\Mariano\\Documents\\GitHub\\Practica-Programacion-1\\Ejercicios Entrega2\\Biblioteca de clases\\Biblioteca de clases.csproj"
     ]
   },
   "packageFolders": {
-    "C:\\Users\\maria\\.nuget\\packages\\": {},
+    "C:\\Users\\Mariano\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\maria\\source\\repos\\Practica-Programacion-1\\Ejercicios Entrega2\\Program.cs\\Program.cs.csproj",
+      "projectUniqueName": "C:\\Users\\Mariano\\Documents\\GitHub\\Practica-Programacion-1\\Ejercicios Entrega2\\Program.cs\\Program.cs.csproj",
       "projectName": "Program.cs",
-      "projectPath": "C:\\Users\\maria\\source\\repos\\Practica-Programacion-1\\Ejercicios Entrega2\\Program.cs\\Program.cs.csproj",
-      "packagesPath": "C:\\Users\\maria\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\maria\\source\\repos\\Practica-Programacion-1\\Ejercicios Entrega2\\Program.cs\\obj\\",
+      "projectPath": "C:\\Users\\Mariano\\Documents\\GitHub\\Practica-Programacion-1\\Ejercicios Entrega2\\Program.cs\\Program.cs.csproj",
+      "packagesPath": "C:\\Users\\Mariano\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Mariano\\Documents\\GitHub\\Practica-Programacion-1\\Ejercicios Entrega2\\Program.cs\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\maria\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Mariano\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
@@ -58,8 +59,11 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "C:\\Users\\maria\\source\\repos\\Practica-Programacion-1\\Ejercicios Entrega2\\Biblioteca de clases\\Biblioteca de clases.csproj": {
-              "projectPath": "C:\\Users\\maria\\source\\repos\\Practica-Programacion-1\\Ejercicios Entrega2\\Biblioteca de clases\\Biblioteca de clases.csproj"
+            "C:\\Users\\Mariano\\Documents\\GitHub\\Practica-Programacion-1\\Ejercicios Entrega2\\Biblioteca de clases\\Biblioteca de clases.csproj": {
+              "projectPath": "C:\\Users\\Mariano\\Documents\\GitHub\\Practica-Programacion-1\\Ejercicios Entrega2\\Biblioteca de clases\\Biblioteca de clases.csproj"
+            },
+            "C:\\Users\\Mariano\\Documents\\GitHub\\Practica-Programacion-1\\Ejercicios Entrega2\\Mas ejercicios PROGRAMACION\\Biblioteca de clases.csproj": {
+              "projectPath": "C:\\Users\\Mariano\\Documents\\GitHub\\Practica-Programacion-1\\Ejercicios Entrega2\\Mas ejercicios PROGRAMACION\\Biblioteca de clases.csproj"
             }
           }
         }
@@ -74,7 +78,7 @@
         "auditLevel": "low",
         "auditMode": "direct"
       },
-      "SdkAnalysisLevel": "9.0.200"
+      "SdkAnalysisLevel": "9.0.300"
     },
     "frameworks": {
       "net8.0": {
@@ -95,8 +99,19 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.201/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.300/PortableRuntimeIdentifierGraph.json"
       }
     }
-  }
+  },
+  "logs": [
+    {
+      "code": "NU1104",
+      "level": "Error",
+      "message": "No se encuentra el proyecto \"C:\\Users\\Mariano\\Documents\\GitHub\\Practica-Programacion-1\\Ejercicios Entrega2\\Biblioteca de clases\\Biblioteca de clases.csproj\". Compruebe que la referencia al proyecto sea válida y que exista el archivo de proyecto.",
+      "libraryId": "C:\\Users\\Mariano\\Documents\\GitHub\\Practica-Programacion-1\\Ejercicios Entrega2\\Biblioteca de clases\\Biblioteca de clases.csproj",
+      "targetGraphs": [
+        "net8.0"
+      ]
+    }
+  ]
 }
