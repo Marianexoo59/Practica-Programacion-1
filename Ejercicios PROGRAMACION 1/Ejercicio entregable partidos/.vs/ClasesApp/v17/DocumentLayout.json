@@ -1,0 +1,90 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Mariano\\source\\repos\\ClasesApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0D8C3E8A-0EE3-4ED4-B897-7246449A8BE4}|..\\ConsoleApp2\\ConsoleApp2.csproj|c:\\users\\mariano\\source\\repos\\consoleapp2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6190E017-DD9A-42B0-952E-32D961CBFA9B}|ClasesApp.csproj|c:\\users\\mariano\\source\\repos\\clasesapp\\partidos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6190E017-DD9A-42B0-952E-32D961CBFA9B}|ClasesApp.csproj|solutionrelative:partidos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6190E017-DD9A-42B0-952E-32D961CBFA9B}|ClasesApp.csproj|c:\\users\\mariano\\source\\repos\\clasesapp\\equipo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6190E017-DD9A-42B0-952E-32D961CBFA9B}|ClasesApp.csproj|solutionrelative:equipo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D8C3E8A-0EE3-4ED4-B897-7246449A8BE4}|..\\ConsoleApp2\\ConsoleApp2.csproj|c:\\users\\mariano\\source\\repos\\consoleapp2\\consoleapp2.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ConsoleApp2",
+              "DocumentMoniker": "C:\\Users\\Mariano\\source\\repos\\ConsoleApp2\\ConsoleApp2.csproj",
+              "RelativeDocumentMoniker": "..\\ConsoleApp2\\ConsoleApp2.csproj",
+              "ToolTip": "C:\\Users\\Mariano\\source\\repos\\ConsoleApp2\\ConsoleApp2.csproj",
+              "RelativeToolTip": "..\\ConsoleApp2\\ConsoleApp2.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-07-25T22:32:32.625Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Mariano\\source\\repos\\ConsoleApp2\\Program.cs",
+              "RelativeDocumentMoniker": "..\\ConsoleApp2\\Program.cs",
+              "ToolTip": "C:\\Users\\Mariano\\source\\repos\\ConsoleApp2\\Program.cs",
+              "RelativeToolTip": "..\\ConsoleApp2\\Program.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAgwGAAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-25T22:31:36.795Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Partidos.cs",
+              "DocumentMoniker": "C:\\Users\\Mariano\\source\\repos\\ClasesApp\\Partidos.cs",
+              "RelativeDocumentMoniker": "Partidos.cs",
+              "ToolTip": "C:\\Users\\Mariano\\source\\repos\\ClasesApp\\Partidos.cs",
+              "RelativeToolTip": "Partidos.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-25T21:47:27.521Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Equipo.cs",
+              "DocumentMoniker": "C:\\Users\\Mariano\\source\\repos\\ClasesApp\\Equipo.cs",
+              "RelativeDocumentMoniker": "Equipo.cs",
+              "ToolTip": "C:\\Users\\Mariano\\source\\repos\\ClasesApp\\Equipo.cs",
+              "RelativeToolTip": "Equipo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-25T21:46:29.024Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

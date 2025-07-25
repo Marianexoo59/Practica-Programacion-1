@@ -1,0 +1,11 @@
+C:\Users\Mariano\source\repos\ClasesApp\bin\Debug\net8.0\ClasesApp.deps.json
+C:\Users\Mariano\source\repos\ClasesApp\bin\Debug\net8.0\ClasesApp.dll
+C:\Users\Mariano\source\repos\ClasesApp\bin\Debug\net8.0\ClasesApp.pdb
+C:\Users\Mariano\source\repos\ClasesApp\obj\Debug\net8.0\ClasesApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mariano\source\repos\ClasesApp\obj\Debug\net8.0\ClasesApp.AssemblyInfoInputs.cache
+C:\Users\Mariano\source\repos\ClasesApp\obj\Debug\net8.0\ClasesApp.AssemblyInfo.cs
+C:\Users\Mariano\source\repos\ClasesApp\obj\Debug\net8.0\ClasesApp.csproj.CoreCompileInputs.cache
+C:\Users\Mariano\source\repos\ClasesApp\obj\Debug\net8.0\ClasesApp.dll
+C:\Users\Mariano\source\repos\ClasesApp\obj\Debug\net8.0\refint\ClasesApp.dll
+C:\Users\Mariano\source\repos\ClasesApp\obj\Debug\net8.0\ClasesApp.pdb
+C:\Users\Mariano\source\repos\ClasesApp\obj\Debug\net8.0\ref\ClasesApp.dll
