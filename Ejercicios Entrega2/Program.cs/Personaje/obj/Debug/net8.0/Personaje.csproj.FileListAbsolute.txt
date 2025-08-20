@@ -1,0 +1,12 @@
+C:\Users\maria\source\repos\Practica-Programacion-1\Ejercicios Entrega2\Personaje\bin\Debug\net8.0\Personaje.deps.json
+C:\Users\maria\source\repos\Practica-Programacion-1\Ejercicios Entrega2\Personaje\bin\Debug\net8.0\Personaje.dll
+C:\Users\maria\source\repos\Practica-Programacion-1\Ejercicios Entrega2\Personaje\bin\Debug\net8.0\Personaje.pdb
+C:\Users\maria\source\repos\Practica-Programacion-1\Ejercicios Entrega2\Personaje\obj\Debug\net8.0\Personaje.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\maria\source\repos\Practica-Programacion-1\Ejercicios Entrega2\Personaje\obj\Debug\net8.0\Personaje.AssemblyInfoInputs.cache
+C:\Users\maria\source\repos\Practica-Programacion-1\Ejercicios Entrega2\Personaje\obj\Debug\net8.0\Personaje.AssemblyInfo.cs
+C:\Users\maria\source\repos\Practica-Programacion-1\Ejercicios Entrega2\Personaje\obj\Debug\net8.0\Personaje.csproj.CoreCompileInputs.cache
+C:\Users\maria\source\repos\Practica-Programacion-1\Ejercicios Entrega2\Personaje\obj\Debug\net8.0\Personaje.sourcelink.json
+C:\Users\maria\source\repos\Practica-Programacion-1\Ejercicios Entrega2\Personaje\obj\Debug\net8.0\Personaje.dll
+C:\Users\maria\source\repos\Practica-Programacion-1\Ejercicios Entrega2\Personaje\obj\Debug\net8.0\refint\Personaje.dll
+C:\Users\maria\source\repos\Practica-Programacion-1\Ejercicios Entrega2\Personaje\obj\Debug\net8.0\Personaje.pdb
+C:\Users\maria\source\repos\Practica-Programacion-1\Ejercicios Entrega2\Personaje\obj\Debug\net8.0\ref\Personaje.dll
