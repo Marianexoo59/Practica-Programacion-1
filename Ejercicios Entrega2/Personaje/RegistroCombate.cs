@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using static System.Runtime.InteropServices.JavaScript.JSType;
 
 namespace Personaje
 {
@@ -13,7 +14,7 @@ namespace Personaje
         public int Turnos { get; set; }
         public string Ganador { get; set; }
 
-        public RegistroCombate(string Personaje1, string Personaje2, string Ganador, int Turnos, int Ganadas)
+        public RegistroCombate(Personaje personaje1, Personaje personaje2, string Ganador, int Turnos, int Ganadas)
         {
             Personaje1 = Personaje1;
             Personaje2 = Personaje2;
@@ -27,14 +28,16 @@ namespace Personaje
         {
             while (Personaje1.Vida > 0 && Personaje2.Vida > 0)
             {
-                Personaje1.Atacar(Personaje2);
-                Personaje1.Vida = Personaje1.Vida - (Personaje1.Defensa - Personaje2.Ataque);
+                int dañoA1 = Math.Max(1, Personaje2.Ataque - Personaje1.Defensa);
+                int dañoA2 = Math.Max(1, Personaje1.Ataque - Personaje2.Defensa);
 
-                Personaje2.Atacar(Personaje1);
-                Personaje2.Vida = Personaje2.Vida - (Personaje2.Defensa - Personaje1.Ataque);
+                Personaje1.Vida -= dañoA1;
+                Personaje2.Vida -= dañoA2;
 
-                Console.WriteLine($"Puntos de vida restantes de {Personaje1}: {Personaje1.Vida} \n {Personaje2}: {Personaje2.Vida}");
-                Console.WriteLine($"Cantidad de turnos: {Turnos}");
+                Console.WriteLine($"Turno {Turnos + 1}:");
+                Console.WriteLine($"{Personaje1.Nombre} recibe {dañoA1} de daño. Vida restante: {Personaje1.Vida}");
+                Console.WriteLine($"{Personaje2.Nombre} recibe {dañoA2} de daño. Vida restante: {Personaje2.Vida}\n");
+
                 Turnos++;
             }
 
@@ -48,8 +51,8 @@ namespace Personaje
                 Ganador = Personaje2.Nombre;
                 Personaje2.CombatesGanados++;
             }
-            Console.WriteLine($"El ganador es: {Ganador}");
 
+            Console.WriteLine($"El ganador es: {Ganador}");
         }
     }
 }

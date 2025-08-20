@@ -33,6 +33,8 @@ namespace Programcs
                                 int nivelGuerrero = int.Parse(Console.ReadLine());
                                 Guerrero nuevoGuerrero = new Guerrero(nombreGuerrero,nivelGuerrero);
                                 personajesCreados.Add(nuevoGuerrero);
+                                ControlDePersonajes.ListaPersonajes.Add(nuevoGuerrero);
+
                                 break;
 
                             case 2:
@@ -42,6 +44,8 @@ namespace Programcs
                                 int nivelMago = int.Parse(Console.ReadLine());
                                 Mago nuevoMago = new Mago(nombreMago, nivelMago);
                                 personajesCreados.Add(nuevoMago);
+                                ControlDePersonajes.ListaPersonajes.Add(nuevoMago);
+
                                 break;
 
                             case 3:
@@ -50,9 +54,11 @@ namespace Programcs
                                 Console.WriteLine("Ingrese el nivel del Arquero: ");
                                 int nivelArquero = int.Parse(Console.ReadLine());
                                 Arquero nuevoArquero = new Arquero(nombreArquero, nivelArquero);
+                                ControlDePersonajes.ListaPersonajes.Add(nuevoArquero);
                                 personajesCreados.Add(nuevoArquero);
                                 break;
                         }
+
 
                         break;
 
@@ -70,7 +76,7 @@ namespace Programcs
                         for (int i = 0; i < ControlDePersonajes.ListaPersonajes.Count; i++)
                         {
 
-                            Console.WriteLine($"{i + 1}. {ControlDePersonajes.ListaPersonajes[i].GetType} {ControlDePersonajes.ListaPersonajes[i].Nombre}");
+                            Console.WriteLine($"{i + 1}. {ControlDePersonajes.ListaPersonajes[i].GetType().Name} {ControlDePersonajes.ListaPersonajes[i].Nombre}");
 
                         }
                         string input1 = Console.ReadLine();
@@ -88,9 +94,7 @@ namespace Programcs
                         Console.WriteLine("Elija el segundo personaje para batallar:");
                         for (int i = 0; i < ListaTemporalParaSegundo.Count; i++)
                         {
-
-                            Console.WriteLine($"{i + 1}. {ListaTemporalParaSegundo[i].GetType} {ListaTemporalParaSegundo[i].Nombre}");
-
+                            Console.WriteLine($"{i + 1}. {ListaTemporalParaSegundo[i].GetType().Name} {ListaTemporalParaSegundo[i].Nombre}");
                         }
                         input1 = Console.ReadLine();
                         int eleccionPersonaje2;
@@ -102,12 +106,19 @@ namespace Programcs
                             conversion1 = int.TryParse(input1, out eleccionPersonaje2);
 
                         }
-                        string Ganador = string.Empty; // Initialize Ganador to an empty string
-                        int Turnos = 0; // Initialize Turnos to 0
-                        int Ganadas = 0; // Initialize Ganadas to 0
+                        string Ganador = string.Empty; 
+                        int Turnos = 0; 
+                        int Ganadas = 0; 
+
 
                         Personaje.Personaje personaje2 = ListaTemporalParaSegundo[eleccionPersonaje2 - 1];
-                        var combate = new RegistroCombate(personaje1, personaje2, Ganador, Turnos, Ganadas);
+                        var combate = new RegistroCombate(personaje1, personaje2,Ganador, Turnos, Ganadas)
+                        {
+                            Personaje1 = personaje1,
+                            Personaje2 = personaje2,
+                            Ganador = Ganador,
+                            Turnos = Turnos
+                        };
                         HistorialCombates.RegistroCombates.Add(combate);
                         combate.Combate();
                         Console.WriteLine("\nPresione una tecla para continuar...");

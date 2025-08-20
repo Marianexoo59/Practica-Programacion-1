@@ -3,9 +3,6 @@
   "WorkspaceRootPath": "C:\\Users\\maria\\source\\repos\\Practica-Programacion-1\\Ejercicios Entrega2\\Programcs\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{316F3DB3-C1C2-48C2-B8A2-518467FB7CB4}|..\\Personaje\\Personaje.csproj|c:\\users\\maria\\source\\repos\\practica-programacion-1\\ejercicios entrega2\\personaje\\personaje.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{BC53BD8C-81A1-490E-AED0-4AEDF7AC6448}|Programcs.csproj|c:\\users\\maria\\source\\repos\\practica-programacion-1\\ejercicios entrega2\\programcs\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{BC53BD8C-81A1-490E-AED0-4AEDF7AC6448}|Programcs.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -13,16 +10,19 @@
       "AbsoluteMoniker": "D:0:0:{316F3DB3-C1C2-48C2-B8A2-518467FB7CB4}|..\\Personaje\\Personaje.csproj|c:\\users\\maria\\source\\repos\\practica-programacion-1\\ejercicios entrega2\\personaje\\registrocombate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{316F3DB3-C1C2-48C2-B8A2-518467FB7CB4}|..\\Personaje\\Personaje.csproj|c:\\users\\maria\\source\\repos\\practica-programacion-1\\ejercicios entrega2\\personaje\\mago.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{316F3DB3-C1C2-48C2-B8A2-518467FB7CB4}|..\\Personaje\\Personaje.csproj|c:\\users\\maria\\source\\repos\\practica-programacion-1\\ejercicios entrega2\\personaje\\guerrero.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{316F3DB3-C1C2-48C2-B8A2-518467FB7CB4}|..\\Personaje\\Personaje.csproj|c:\\users\\maria\\source\\repos\\practica-programacion-1\\ejercicios entrega2\\personaje\\personaje.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{316F3DB3-C1C2-48C2-B8A2-518467FB7CB4}|..\\Personaje\\Personaje.csproj|c:\\users\\maria\\source\\repos\\practica-programacion-1\\ejercicios entrega2\\personaje\\controldepersonajes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{316F3DB3-C1C2-48C2-B8A2-518467FB7CB4}|..\\Personaje\\Personaje.csproj|c:\\users\\maria\\source\\repos\\practica-programacion-1\\ejercicios entrega2\\personaje\\historialdecombates.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{316F3DB3-C1C2-48C2-B8A2-518467FB7CB4}|..\\Personaje\\Personaje.csproj|c:\\users\\maria\\source\\repos\\practica-programacion-1\\ejercicios entrega2\\personaje\\mago.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{316F3DB3-C1C2-48C2-B8A2-518467FB7CB4}|..\\Personaje\\Personaje.csproj|c:\\users\\maria\\source\\repos\\practica-programacion-1\\ejercicios entrega2\\personaje\\guerrero.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{316F3DB3-C1C2-48C2-B8A2-518467FB7CB4}|..\\Personaje\\Personaje.csproj|c:\\users\\maria\\source\\repos\\practica-programacion-1\\ejercicios entrega2\\personaje\\arquero.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
@@ -38,7 +38,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
@@ -46,7 +46,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 4,
               "Title": "HistorialDeCombates.cs",
               "DocumentMoniker": "C:\\Users\\maria\\source\\repos\\Practica-Programacion-1\\Ejercicios Entrega2\\Personaje\\HistorialDeCombates.cs",
               "RelativeDocumentMoniker": "..\\Personaje\\HistorialDeCombates.cs",
@@ -58,32 +58,33 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\maria\\source\\repos\\Practica-Programacion-1\\Ejercicios Entrega2\\Programcs\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
               "ToolTip": "C:\\Users\\maria\\source\\repos\\Practica-Programacion-1\\Ejercicios Entrega2\\Programcs\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAEwAAAAAAAAAAADwv2oAAAApAAAAAAAAAA==",
+              "ViewState": "AgIAAFEAAAAAAAAAAAAiwGQAAABTAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-08-12T19:44:09.429Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 3,
               "Title": "ControlDePersonajes.cs",
               "DocumentMoniker": "C:\\Users\\maria\\source\\repos\\Practica-Programacion-1\\Ejercicios Entrega2\\Personaje\\ControlDePersonajes.cs",
               "RelativeDocumentMoniker": "..\\Personaje\\ControlDePersonajes.cs",
               "ToolTip": "C:\\Users\\maria\\source\\repos\\Practica-Programacion-1\\Ejercicios Entrega2\\Personaje\\ControlDePersonajes.cs",
               "RelativeToolTip": "..\\Personaje\\ControlDePersonajes.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-19T20:24:28.715Z"
+              "WhenOpened": "2025-08-19T20:24:28.715Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 5,
               "Title": "Mago.cs",
               "DocumentMoniker": "C:\\Users\\maria\\source\\repos\\Practica-Programacion-1\\Ejercicios Entrega2\\Personaje\\Mago.cs",
               "RelativeDocumentMoniker": "..\\Personaje\\Mago.cs",
@@ -95,32 +96,33 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "Personaje.cs",
               "DocumentMoniker": "C:\\Users\\maria\\source\\repos\\Practica-Programacion-1\\Ejercicios Entrega2\\Personaje\\Personaje.cs",
               "RelativeDocumentMoniker": "..\\Personaje\\Personaje.cs",
-              "ToolTip": "C:\\Users\\maria\\source\\repos\\Practica-Programacion-1\\Ejercicios Entrega2\\Personaje\\Personaje.cs*",
-              "RelativeToolTip": "..\\Personaje\\Personaje.cs*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAmAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\maria\\source\\repos\\Practica-Programacion-1\\Ejercicios Entrega2\\Personaje\\Personaje.cs",
+              "RelativeToolTip": "..\\Personaje\\Personaje.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-08-12T19:45:30.684Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "RegistroCombate.cs",
               "DocumentMoniker": "C:\\Users\\maria\\source\\repos\\Practica-Programacion-1\\Ejercicios Entrega2\\Personaje\\RegistroCombate.cs",
               "RelativeDocumentMoniker": "..\\Personaje\\RegistroCombate.cs",
               "ToolTip": "C:\\Users\\maria\\source\\repos\\Practica-Programacion-1\\Ejercicios Entrega2\\Personaje\\RegistroCombate.cs",
               "RelativeToolTip": "..\\Personaje\\RegistroCombate.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAqwAkAAAAFAAAAAAAAAA==",
+              "ViewState": "AgIAABUAAAAAAAAAAAAUwCAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-12T22:21:15.348Z"
+              "WhenOpened": "2025-08-12T22:21:15.348Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 6,
               "Title": "Guerrero.cs",
               "DocumentMoniker": "C:\\Users\\maria\\source\\repos\\Practica-Programacion-1\\Ejercicios Entrega2\\Personaje\\Guerrero.cs",
               "RelativeDocumentMoniker": "..\\Personaje\\Guerrero.cs",
@@ -153,6 +155,10 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
               "WhenOpened": "2025-08-12T20:50:25.586Z"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
             }
           ]
         }
