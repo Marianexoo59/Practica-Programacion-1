@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36414.22 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Gestor de viajes", "Gestor de viajes.csproj", "{CDC5A69E-FC9E-4707-9A3D-02DCB4C46261}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Biblioteca de clases", "..\Biblioteca de clases\Biblioteca de clases.csproj", "{250F6C53-29B7-4014-8888-F70A2D55E485}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CDC5A69E-FC9E-4707-9A3D-02DCB4C46261}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CDC5A69E-FC9E-4707-9A3D-02DCB4C46261}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CDC5A69E-FC9E-4707-9A3D-02DCB4C46261}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CDC5A69E-FC9E-4707-9A3D-02DCB4C46261}.Release|Any CPU.Build.0 = Release|Any CPU
+		{250F6C53-29B7-4014-8888-F70A2D55E485}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{250F6C53-29B7-4014-8888-F70A2D55E485}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{250F6C53-29B7-4014-8888-F70A2D55E485}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{250F6C53-29B7-4014-8888-F70A2D55E485}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {63D7640F-8583-4666-8BC4-8285B8DBF9D7}
+	EndGlobalSection
+EndGlobal

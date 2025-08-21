@@ -1,0 +1,121 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\maria\\source\\repos\\Practica-Programacion-1\\Ejercicios Entrega2\\Ejercicio Gestor de viajes\\Gestor de viajes\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{250F6C53-29B7-4014-8888-F70A2D55E485}|..\\Biblioteca de clases\\Biblioteca de clases.csproj|c:\\users\\maria\\source\\repos\\practica-programacion-1\\ejercicios entrega2\\ejercicio gestor de viajes\\biblioteca de clases\\camion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{250F6C53-29B7-4014-8888-F70A2D55E485}|..\\Biblioteca de clases\\Biblioteca de clases.csproj|c:\\users\\maria\\source\\repos\\practica-programacion-1\\ejercicios entrega2\\ejercicio gestor de viajes\\biblioteca de clases\\vehiculo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{250F6C53-29B7-4014-8888-F70A2D55E485}|..\\Biblioteca de clases\\Biblioteca de clases.csproj|c:\\users\\maria\\source\\repos\\practica-programacion-1\\ejercicios entrega2\\ejercicio gestor de viajes\\biblioteca de clases\\furgoneta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{250F6C53-29B7-4014-8888-F70A2D55E485}|..\\Biblioteca de clases\\Biblioteca de clases.csproj|c:\\users\\maria\\source\\repos\\practica-programacion-1\\ejercicios entrega2\\ejercicio gestor de viajes\\biblioteca de clases\\motocicleta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{250F6C53-29B7-4014-8888-F70A2D55E485}|..\\Biblioteca de clases\\Biblioteca de clases.csproj|c:\\users\\maria\\source\\repos\\practica-programacion-1\\ejercicios entrega2\\ejercicio gestor de viajes\\biblioteca de clases\\viajes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CDC5A69E-FC9E-4707-9A3D-02DCB4C46261}|Gestor de viajes.csproj|c:\\users\\maria\\source\\repos\\practica-programacion-1\\ejercicios entrega2\\ejercicio gestor de viajes\\gestor de viajes\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CDC5A69E-FC9E-4707-9A3D-02DCB4C46261}|Gestor de viajes.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Motocicleta.cs",
+              "DocumentMoniker": "C:\\Users\\maria\\source\\repos\\Practica-Programacion-1\\Ejercicios Entrega2\\Ejercicio Gestor de viajes\\Biblioteca de clases\\Motocicleta.cs",
+              "RelativeDocumentMoniker": "..\\Biblioteca de clases\\Motocicleta.cs",
+              "ToolTip": "C:\\Users\\maria\\source\\repos\\Practica-Programacion-1\\Ejercicios Entrega2\\Ejercicio Gestor de viajes\\Biblioteca de clases\\Motocicleta.cs",
+              "RelativeToolTip": "..\\Biblioteca de clases\\Motocicleta.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAqwBEAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-20T23:21:28.58Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Furgoneta.cs",
+              "DocumentMoniker": "C:\\Users\\maria\\source\\repos\\Practica-Programacion-1\\Ejercicios Entrega2\\Ejercicio Gestor de viajes\\Biblioteca de clases\\Furgoneta.cs",
+              "RelativeDocumentMoniker": "..\\Biblioteca de clases\\Furgoneta.cs",
+              "ToolTip": "C:\\Users\\maria\\source\\repos\\Practica-Programacion-1\\Ejercicios Entrega2\\Ejercicio Gestor de viajes\\Biblioteca de clases\\Furgoneta.cs",
+              "RelativeToolTip": "..\\Biblioteca de clases\\Furgoneta.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAqwBMAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-20T23:20:42.666Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Viajes.cs",
+              "DocumentMoniker": "C:\\Users\\maria\\source\\repos\\Practica-Programacion-1\\Ejercicios Entrega2\\Ejercicio Gestor de viajes\\Biblioteca de clases\\Viajes.cs",
+              "RelativeDocumentMoniker": "..\\Biblioteca de clases\\Viajes.cs",
+              "ToolTip": "C:\\Users\\maria\\source\\repos\\Practica-Programacion-1\\Ejercicios Entrega2\\Ejercicio Gestor de viajes\\Biblioteca de clases\\Viajes.cs",
+              "RelativeToolTip": "..\\Biblioteca de clases\\Viajes.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA4AAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-20T23:17:47.103Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Camion.cs",
+              "DocumentMoniker": "C:\\Users\\maria\\source\\repos\\Practica-Programacion-1\\Ejercicios Entrega2\\Ejercicio Gestor de viajes\\Biblioteca de clases\\Camion.cs",
+              "RelativeDocumentMoniker": "..\\Biblioteca de clases\\Camion.cs",
+              "ToolTip": "C:\\Users\\maria\\source\\repos\\Practica-Programacion-1\\Ejercicios Entrega2\\Ejercicio Gestor de viajes\\Biblioteca de clases\\Camion.cs",
+              "RelativeToolTip": "..\\Biblioteca de clases\\Camion.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAASwBwAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-20T23:12:42.046Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Vehiculo.cs",
+              "DocumentMoniker": "C:\\Users\\maria\\source\\repos\\Practica-Programacion-1\\Ejercicios Entrega2\\Ejercicio Gestor de viajes\\Biblioteca de clases\\Vehiculo.cs",
+              "RelativeDocumentMoniker": "..\\Biblioteca de clases\\Vehiculo.cs",
+              "ToolTip": "C:\\Users\\maria\\source\\repos\\Practica-Programacion-1\\Ejercicios Entrega2\\Ejercicio Gestor de viajes\\Biblioteca de clases\\Vehiculo.cs",
+              "RelativeToolTip": "..\\Biblioteca de clases\\Vehiculo.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAA1wA4AAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-20T23:01:03.471Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\maria\\source\\repos\\Practica-Programacion-1\\Ejercicios Entrega2\\Ejercicio Gestor de viajes\\Gestor de viajes\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\maria\\source\\repos\\Practica-Programacion-1\\Ejercicios Entrega2\\Ejercicio Gestor de viajes\\Gestor de viajes\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-20T23:00:26.614Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
