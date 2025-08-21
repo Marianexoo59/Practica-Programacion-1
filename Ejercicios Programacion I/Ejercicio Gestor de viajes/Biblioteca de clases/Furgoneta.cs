@@ -6,10 +6,10 @@ using System.Threading.Tasks;
 
 namespace Biblioteca_de_clases
 {
-    internal class Furgoneta : Vehiculo
+    public class Furgoneta : Vehiculo
     {
 
-        public Furgoneta(int Placa, int Kilometraje, int Viajes, int Capacidad) : base(Placa, Kilometraje, Viajes, Capacidad)
+        public Furgoneta(string placa, int Kilometraje, int Capacidad) : base(placa, Kilometraje)
         {
 
         }

@@ -2,18 +2,15 @@
 {
     public abstract class Vehiculo
     {
-        public int Placa { get; set; }
+        public string Placa { get; set; }
         public int Kilometraje { get; set; }
-        public int Viajes { get; set; }
+        
+        public static List<Vehiculo> NuevoVehiculo = new List<Vehiculo>();
 
-        public int Capacidad { get; set; }
-
-        public Vehiculo(int Placa, int Kilometraje, int Viajes, int capacidad)
+        public Vehiculo(string Placa, int Kilometraje)
         {
             this.Placa = Placa;
             this.Kilometraje = Kilometraje;
-            this.Viajes = Viajes;
-            Capacidad = capacidad;
         }
         public abstract void AgregarViaje();
 

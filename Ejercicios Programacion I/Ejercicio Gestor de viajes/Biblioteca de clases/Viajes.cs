@@ -6,11 +6,18 @@ using System.Threading.Tasks;
 
 namespace Biblioteca_de_clases
 {
-    internal class Viajes
+    public class Viajes
     {
         public int Distancia { get; set; }
         public int CargaTransportada { get; set; }
         public DateTime Fecha { get; set; }
+
+        public Viajes(int Distancia, int CargaTransportada, DateTime Fecha)
+        {
+            this.Distancia = Distancia;
+            this.CargaTransportada = CargaTransportada;
+            this.Fecha = Fecha;
+        }
 
         public List<Viajes> NuevoViaje = new List<Viajes>();
     }

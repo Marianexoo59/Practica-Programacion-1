@@ -6,14 +6,14 @@ using System.Threading.Tasks;
 
 namespace Biblioteca_de_clases
 {
-    internal class Camion : Vehiculo
+    public class Camion : Vehiculo
     {
-        public int CargaAdicional { get; set; }
+        public int Capacidad { get; set; }
 
-        public Camion(int placa, int kilometraje, int viajes, int cargaAdicional, int Capacidad) 
-            : base(placa, kilometraje, viajes, Capacidad)
+        public Camion(string placa, int kilometraje, int Capacidad) 
+            : base(placa, kilometraje)
         {
-            this.CargaAdicional = cargaAdicional;
+            this.Capacidad = Capacidad;
         }
 
         public override void DistanciaTotal()
