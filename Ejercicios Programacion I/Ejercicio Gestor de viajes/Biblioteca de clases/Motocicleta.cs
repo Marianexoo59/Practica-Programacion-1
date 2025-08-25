@@ -8,9 +8,10 @@ namespace Biblioteca_de_clases
 {
     public class Motocicleta : Vehiculo
     {
-        public Motocicleta(string placa, int Kilometraje, int Capacidad) : base(placa, Kilometraje)
+        public List<Viajes> ListaViajes { get; set; } = new List<Viajes>();
+        public Motocicleta(string placa, int kilometraje) : base(placa, kilometraje)
         {
-            
+
         }
 
         public override void DistanciaTotal()
@@ -18,7 +19,7 @@ namespace Biblioteca_de_clases
             Kilometraje = Kilometraje;
         }
 
-        public override void AgregarViaje()
+        public override void AgregarViaje(Viajes viaje)
         {
             
         }

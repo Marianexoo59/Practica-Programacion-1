@@ -19,6 +19,5 @@ namespace Biblioteca_de_clases
             this.Fecha = Fecha;
         }
 
-        public List<Viajes> NuevoViaje = new List<Viajes>();
     }
 }

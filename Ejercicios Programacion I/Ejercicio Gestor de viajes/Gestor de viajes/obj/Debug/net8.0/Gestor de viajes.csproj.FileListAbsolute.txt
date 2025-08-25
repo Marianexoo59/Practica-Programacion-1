@@ -1,0 +1,19 @@
+C:\Users\Mariano\Documents\GitHub\Practica-Programacion-1\Ejercicios Programacion I\Ejercicio Gestor de viajes\Gestor de viajes\bin\Debug\net8.0\Gestor de viajes.exe
+C:\Users\Mariano\Documents\GitHub\Practica-Programacion-1\Ejercicios Programacion I\Ejercicio Gestor de viajes\Gestor de viajes\bin\Debug\net8.0\Gestor de viajes.deps.json
+C:\Users\Mariano\Documents\GitHub\Practica-Programacion-1\Ejercicios Programacion I\Ejercicio Gestor de viajes\Gestor de viajes\bin\Debug\net8.0\Gestor de viajes.runtimeconfig.json
+C:\Users\Mariano\Documents\GitHub\Practica-Programacion-1\Ejercicios Programacion I\Ejercicio Gestor de viajes\Gestor de viajes\bin\Debug\net8.0\Gestor de viajes.dll
+C:\Users\Mariano\Documents\GitHub\Practica-Programacion-1\Ejercicios Programacion I\Ejercicio Gestor de viajes\Gestor de viajes\bin\Debug\net8.0\Gestor de viajes.pdb
+C:\Users\Mariano\Documents\GitHub\Practica-Programacion-1\Ejercicios Programacion I\Ejercicio Gestor de viajes\Gestor de viajes\bin\Debug\net8.0\Biblioteca de clases.dll
+C:\Users\Mariano\Documents\GitHub\Practica-Programacion-1\Ejercicios Programacion I\Ejercicio Gestor de viajes\Gestor de viajes\bin\Debug\net8.0\Biblioteca de clases.pdb
+C:\Users\Mariano\Documents\GitHub\Practica-Programacion-1\Ejercicios Programacion I\Ejercicio Gestor de viajes\Gestor de viajes\obj\Debug\net8.0\Gestor de viajes.csproj.AssemblyReference.cache
+C:\Users\Mariano\Documents\GitHub\Practica-Programacion-1\Ejercicios Programacion I\Ejercicio Gestor de viajes\Gestor de viajes\obj\Debug\net8.0\Gestor de viajes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mariano\Documents\GitHub\Practica-Programacion-1\Ejercicios Programacion I\Ejercicio Gestor de viajes\Gestor de viajes\obj\Debug\net8.0\Gestor de viajes.AssemblyInfoInputs.cache
+C:\Users\Mariano\Documents\GitHub\Practica-Programacion-1\Ejercicios Programacion I\Ejercicio Gestor de viajes\Gestor de viajes\obj\Debug\net8.0\Gestor de viajes.AssemblyInfo.cs
+C:\Users\Mariano\Documents\GitHub\Practica-Programacion-1\Ejercicios Programacion I\Ejercicio Gestor de viajes\Gestor de viajes\obj\Debug\net8.0\Gestor de viajes.csproj.CoreCompileInputs.cache
+C:\Users\Mariano\Documents\GitHub\Practica-Programacion-1\Ejercicios Programacion I\Ejercicio Gestor de viajes\Gestor de viajes\obj\Debug\net8.0\Gestor de viajes.sourcelink.json
+C:\Users\Mariano\Documents\GitHub\Practica-Programacion-1\Ejercicios Programacion I\Ejercicio Gestor de viajes\Gestor de viajes\obj\Debug\net8.0\Gestor d.78E7F37A.Up2Date
+C:\Users\Mariano\Documents\GitHub\Practica-Programacion-1\Ejercicios Programacion I\Ejercicio Gestor de viajes\Gestor de viajes\obj\Debug\net8.0\Gestor de viajes.dll
+C:\Users\Mariano\Documents\GitHub\Practica-Programacion-1\Ejercicios Programacion I\Ejercicio Gestor de viajes\Gestor de viajes\obj\Debug\net8.0\refint\Gestor de viajes.dll
+C:\Users\Mariano\Documents\GitHub\Practica-Programacion-1\Ejercicios Programacion I\Ejercicio Gestor de viajes\Gestor de viajes\obj\Debug\net8.0\Gestor de viajes.pdb
+C:\Users\Mariano\Documents\GitHub\Practica-Programacion-1\Ejercicios Programacion I\Ejercicio Gestor de viajes\Gestor de viajes\obj\Debug\net8.0\Gestor de viajes.genruntimeconfig.cache
+C:\Users\Mariano\Documents\GitHub\Practica-Programacion-1\Ejercicios Programacion I\Ejercicio Gestor de viajes\Gestor de viajes\obj\Debug\net8.0\ref\Gestor de viajes.dll

@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Gestor de viajes")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1c3fae800e4be0972b745ee9250501d086d4e96e")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5d19a2e6fef7f721d6008a50fc50d7420abfadca")]
 [assembly: System.Reflection.AssemblyProductAttribute("Gestor de viajes")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Gestor de viajes")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

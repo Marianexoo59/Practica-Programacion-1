@@ -4,16 +4,21 @@
     {
         public string Placa { get; set; }
         public int Kilometraje { get; set; }
-        
-        public static List<Vehiculo> NuevoVehiculo = new List<Vehiculo>();
+        public List<Viajes> ListaViajes { get; set; } = new List<Viajes>();
 
         public Vehiculo(string Placa, int Kilometraje)
         {
             this.Placa = Placa;
             this.Kilometraje = Kilometraje;
         }
-        public abstract void AgregarViaje();
-
-        public abstract void DistanciaTotal();
+        public virtual void AgregarViaje(Viajes viaje)
+        {
+            ListaViajes.Add(viaje);
+            Kilometraje += viaje.Distancia;
+        }
+        public virtual void DistanciaTotal()
+        {
+            Console.WriteLine($"Distancia total recorrida por la motocicleta: {Kilometraje} km");
+        }
     }
 }
