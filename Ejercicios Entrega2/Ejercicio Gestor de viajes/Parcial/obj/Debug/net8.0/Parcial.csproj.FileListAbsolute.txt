@@ -1,0 +1,19 @@
+C:\Users\maria\source\repos\Practica-Programacion-1\Ejercicios Entrega2\Ejercicio Gestor de viajes\Parcial\bin\Debug\net8.0\Parcial.exe
+C:\Users\maria\source\repos\Practica-Programacion-1\Ejercicios Entrega2\Ejercicio Gestor de viajes\Parcial\bin\Debug\net8.0\Parcial.deps.json
+C:\Users\maria\source\repos\Practica-Programacion-1\Ejercicios Entrega2\Ejercicio Gestor de viajes\Parcial\bin\Debug\net8.0\Parcial.runtimeconfig.json
+C:\Users\maria\source\repos\Practica-Programacion-1\Ejercicios Entrega2\Ejercicio Gestor de viajes\Parcial\bin\Debug\net8.0\Parcial.dll
+C:\Users\maria\source\repos\Practica-Programacion-1\Ejercicios Entrega2\Ejercicio Gestor de viajes\Parcial\bin\Debug\net8.0\Parcial.pdb
+C:\Users\maria\source\repos\Practica-Programacion-1\Ejercicios Entrega2\Ejercicio Gestor de viajes\Parcial\bin\Debug\net8.0\Biblioteca de clases.dll
+C:\Users\maria\source\repos\Practica-Programacion-1\Ejercicios Entrega2\Ejercicio Gestor de viajes\Parcial\bin\Debug\net8.0\Biblioteca de clases.pdb
+C:\Users\maria\source\repos\Practica-Programacion-1\Ejercicios Entrega2\Ejercicio Gestor de viajes\Parcial\obj\Debug\net8.0\Parcial.csproj.AssemblyReference.cache
+C:\Users\maria\source\repos\Practica-Programacion-1\Ejercicios Entrega2\Ejercicio Gestor de viajes\Parcial\obj\Debug\net8.0\Parcial.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\maria\source\repos\Practica-Programacion-1\Ejercicios Entrega2\Ejercicio Gestor de viajes\Parcial\obj\Debug\net8.0\Parcial.AssemblyInfoInputs.cache
+C:\Users\maria\source\repos\Practica-Programacion-1\Ejercicios Entrega2\Ejercicio Gestor de viajes\Parcial\obj\Debug\net8.0\Parcial.AssemblyInfo.cs
+C:\Users\maria\source\repos\Practica-Programacion-1\Ejercicios Entrega2\Ejercicio Gestor de viajes\Parcial\obj\Debug\net8.0\Parcial.csproj.CoreCompileInputs.cache
+C:\Users\maria\source\repos\Practica-Programacion-1\Ejercicios Entrega2\Ejercicio Gestor de viajes\Parcial\obj\Debug\net8.0\Parcial.sourcelink.json
+C:\Users\maria\source\repos\Practica-Programacion-1\Ejercicios Entrega2\Ejercicio Gestor de viajes\Parcial\obj\Debug\net8.0\Parcial.csproj.Up2Date
+C:\Users\maria\source\repos\Practica-Programacion-1\Ejercicios Entrega2\Ejercicio Gestor de viajes\Parcial\obj\Debug\net8.0\Parcial.dll
+C:\Users\maria\source\repos\Practica-Programacion-1\Ejercicios Entrega2\Ejercicio Gestor de viajes\Parcial\obj\Debug\net8.0\refint\Parcial.dll
+C:\Users\maria\source\repos\Practica-Programacion-1\Ejercicios Entrega2\Ejercicio Gestor de viajes\Parcial\obj\Debug\net8.0\Parcial.pdb
+C:\Users\maria\source\repos\Practica-Programacion-1\Ejercicios Entrega2\Ejercicio Gestor de viajes\Parcial\obj\Debug\net8.0\Parcial.genruntimeconfig.cache
+C:\Users\maria\source\repos\Practica-Programacion-1\Ejercicios Entrega2\Ejercicio Gestor de viajes\Parcial\obj\Debug\net8.0\ref\Parcial.dll
