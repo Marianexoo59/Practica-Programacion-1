@@ -2,14 +2,11 @@
 {
     public class LibroDigital : Libro
     {
-        public override bool Disponible
-        {
-            get { return true; } // siempre disponible
-            set { } // no hace nada
-        }
+        public override bool Disponible { get;  set; }
 
         public LibroDigital(string titulo, string autor, int isbn) : base(titulo, autor, isbn)
         {
+            Disponible = true;
         }
     }
 }

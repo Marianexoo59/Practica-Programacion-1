@@ -1,8 +1,20 @@
 {
   "version": 2,
-  "dgSpecHash": "nr8/7aCRZtY=",
-  "success": true,
-  "projectFilePath": "C:\\Users\\maria\\source\\repos\\Practica-Programacion-1\\Ejercicios Entrega2\\Ejercicio Gestor de viajes\\Parcial\\Parcial.csproj",
+  "dgSpecHash": "Ztwj5taxbcc=",
+  "success": false,
+  "projectFilePath": "C:\\Users\\Mariano\\Documents\\GitHub\\Practica-Programacion-1\\Ejercicios Entrega2\\Ejercicio Gestor de viajes\\Parcial\\Parcial.csproj",
   "expectedPackageFiles": [],
-  "logs": []
+  "logs": [
+    {
+      "code": "NU1104",
+      "level": "Error",
+      "message": "No se encuentra el proyecto \"C:\\Users\\Mariano\\Documents\\GitHub\\Practica-Programacion-1\\Ejercicios Entrega2\\Ejercicio Gestor de viajes\\Biblioteca de clases\\Biblioteca de clases.csproj\". Compruebe que la referencia al proyecto sea válida y que exista el archivo de proyecto.",
+      "projectPath": "C:\\Users\\Mariano\\Documents\\GitHub\\Practica-Programacion-1\\Ejercicios Entrega2\\Ejercicio Gestor de viajes\\Parcial\\Parcial.csproj",
+      "filePath": "C:\\Users\\Mariano\\Documents\\GitHub\\Practica-Programacion-1\\Ejercicios Entrega2\\Ejercicio Gestor de viajes\\Parcial\\Parcial.csproj",
+      "libraryId": "C:\\Users\\Mariano\\Documents\\GitHub\\Practica-Programacion-1\\Ejercicios Entrega2\\Ejercicio Gestor de viajes\\Biblioteca de clases\\Biblioteca de clases.csproj",
+      "targetGraphs": [
+        "net8.0"
+      ]
+    }
+  ]
 }
