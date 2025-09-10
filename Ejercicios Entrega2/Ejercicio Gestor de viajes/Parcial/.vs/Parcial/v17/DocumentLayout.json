@@ -7,19 +7,19 @@
       "RelativeMoniker": "D:0:0:{95657790-90D6-4C15-940A-252DC77AD91D}|Parcial.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5A4DA644-DA6F-4D0C-8BB1-0012C33144F1}|..\\Biblioteca de clases\\Biblioteca de clases.csproj|c:\\users\\maria\\source\\repos\\practica-programacion-1\\ejercicios entrega2\\ejercicio gestor de viajes\\biblioteca de clases\\socio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\maria\\source\\repos\\Practica-Programacion-1\\Ejercicios Entrega2\\Ejercicio Gestor de viajes\\Biblioteca de clases\\Prestamo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5A4DA644-DA6F-4D0C-8BB1-0012C33144F1}|..\\Biblioteca de clases\\Biblioteca de clases.csproj|c:\\users\\maria\\source\\repos\\practica-programacion-1\\ejercicios entrega2\\ejercicio gestor de viajes\\biblioteca de clases\\prestamo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\maria\\source\\repos\\Practica-Programacion-1\\Ejercicios Entrega2\\Ejercicio Gestor de viajes\\Biblioteca de clases\\Socio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5A4DA644-DA6F-4D0C-8BB1-0012C33144F1}|..\\Biblioteca de clases\\Biblioteca de clases.csproj|c:\\users\\maria\\source\\repos\\practica-programacion-1\\ejercicios entrega2\\ejercicio gestor de viajes\\biblioteca de clases\\librodigital.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\maria\\source\\repos\\Practica-Programacion-1\\Ejercicios Entrega2\\Ejercicio Gestor de viajes\\Biblioteca de clases\\LibroFisico.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5A4DA644-DA6F-4D0C-8BB1-0012C33144F1}|..\\Biblioteca de clases\\Biblioteca de clases.csproj|c:\\users\\maria\\source\\repos\\practica-programacion-1\\ejercicios entrega2\\ejercicio gestor de viajes\\biblioteca de clases\\librofisico.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\maria\\source\\repos\\Practica-Programacion-1\\Ejercicios Entrega2\\Ejercicio Gestor de viajes\\Biblioteca de clases\\LibroDigital.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5A4DA644-DA6F-4D0C-8BB1-0012C33144F1}|..\\Biblioteca de clases\\Biblioteca de clases.csproj|c:\\users\\maria\\source\\repos\\practica-programacion-1\\ejercicios entrega2\\ejercicio gestor de viajes\\biblioteca de clases\\libro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\maria\\source\\repos\\Practica-Programacion-1\\Ejercicios Entrega2\\Ejercicio Gestor de viajes\\Biblioteca de clases\\Libro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -41,7 +41,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "Prestamo.cs",
               "DocumentMoniker": "C:\\Users\\maria\\source\\repos\\Practica-Programacion-1\\Ejercicios Entrega2\\Ejercicio Gestor de viajes\\Biblioteca de clases\\Prestamo.cs",
               "RelativeDocumentMoniker": "..\\Biblioteca de clases\\Prestamo.cs",
@@ -49,12 +49,11 @@
               "RelativeToolTip": "..\\Biblioteca de clases\\Prestamo.cs",
               "ViewState": "AgIAAAMAAAAAAAAAAAAowA4AAAAoAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-27T23:38:12.98Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-27T23:38:12.98Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Socio.cs",
               "DocumentMoniker": "C:\\Users\\maria\\source\\repos\\Practica-Programacion-1\\Ejercicios Entrega2\\Ejercicio Gestor de viajes\\Biblioteca de clases\\Socio.cs",
               "RelativeDocumentMoniker": "..\\Biblioteca de clases\\Socio.cs",
@@ -62,12 +61,11 @@
               "RelativeToolTip": "..\\Biblioteca de clases\\Socio.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAiAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-27T23:38:06.742Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-27T23:38:06.742Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 3,
               "Title": "LibroFisico.cs",
               "DocumentMoniker": "C:\\Users\\maria\\source\\repos\\Practica-Programacion-1\\Ejercicios Entrega2\\Ejercicio Gestor de viajes\\Biblioteca de clases\\LibroFisico.cs",
               "RelativeDocumentMoniker": "..\\Biblioteca de clases\\LibroFisico.cs",
@@ -75,12 +73,11 @@
               "RelativeToolTip": "..\\Biblioteca de clases\\LibroFisico.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-27T23:38:00.349Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-27T23:38:00.349Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "LibroDigital.cs",
               "DocumentMoniker": "C:\\Users\\maria\\source\\repos\\Practica-Programacion-1\\Ejercicios Entrega2\\Ejercicio Gestor de viajes\\Biblioteca de clases\\LibroDigital.cs",
               "RelativeDocumentMoniker": "..\\Biblioteca de clases\\LibroDigital.cs",
@@ -88,8 +85,7 @@
               "RelativeToolTip": "..\\Biblioteca de clases\\LibroDigital.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-27T23:37:54.612Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-27T23:37:54.612Z"
             },
             {
               "$type": "Document",
@@ -101,8 +97,7 @@
               "RelativeToolTip": "..\\Biblioteca de clases\\Libro.cs",
               "ViewState": "AgIAAAIAAAAAAAAAAAAAwBsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-27T23:37:46.105Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-27T23:37:46.105Z"
             },
             {
               "$type": "Document",
@@ -112,7 +107,7 @@
               "RelativeDocumentMoniker": "Program.cs",
               "ToolTip": "C:\\Users\\maria\\source\\repos\\Practica-Programacion-1\\Ejercicios Entrega2\\Ejercicio Gestor de viajes\\Parcial\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAC0AAAAAAAAAAADwv0kAAABQAAAAAAAAAA==",
+              "ViewState": "AgIAAEgAAAAAAAAAAADwv0wAAABfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-08-27T20:35:44.726Z",
               "EditorCaption": ""

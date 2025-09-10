@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Mariano\\Documents\\GitHub\\Practica-Programacion-1\\Ejercicios Programacion I\\Ejercicio Gestor de viajes\\Biblioteca de clases\\Biblioteca de clases.csproj": {}
+    "C:\\Users\\maria\\source\\repos\\Practica-Programacion-1\\Ejercicios Programacion I\\Ejercicio Gestor de viajes\\Biblioteca de clases\\Biblioteca de clases.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Mariano\\Documents\\GitHub\\Practica-Programacion-1\\Ejercicios Programacion I\\Ejercicio Gestor de viajes\\Biblioteca de clases\\Biblioteca de clases.csproj": {
+    "C:\\Users\\maria\\source\\repos\\Practica-Programacion-1\\Ejercicios Programacion I\\Ejercicio Gestor de viajes\\Biblioteca de clases\\Biblioteca de clases.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Mariano\\Documents\\GitHub\\Practica-Programacion-1\\Ejercicios Programacion I\\Ejercicio Gestor de viajes\\Biblioteca de clases\\Biblioteca de clases.csproj",
+        "projectUniqueName": "C:\\Users\\maria\\source\\repos\\Practica-Programacion-1\\Ejercicios Programacion I\\Ejercicio Gestor de viajes\\Biblioteca de clases\\Biblioteca de clases.csproj",
         "projectName": "Biblioteca de clases",
-        "projectPath": "C:\\Users\\Mariano\\Documents\\GitHub\\Practica-Programacion-1\\Ejercicios Programacion I\\Ejercicio Gestor de viajes\\Biblioteca de clases\\Biblioteca de clases.csproj",
-        "packagesPath": "C:\\Users\\Mariano\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Mariano\\Documents\\GitHub\\Practica-Programacion-1\\Ejercicios Programacion I\\Ejercicio Gestor de viajes\\Biblioteca de clases\\obj\\",
+        "projectPath": "C:\\Users\\maria\\source\\repos\\Practica-Programacion-1\\Ejercicios Programacion I\\Ejercicio Gestor de viajes\\Biblioteca de clases\\Biblioteca de clases.csproj",
+        "packagesPath": "C:\\Users\\maria\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\maria\\source\\repos\\Practica-Programacion-1\\Ejercicios Programacion I\\Ejercicio Gestor de viajes\\Biblioteca de clases\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\Mariano\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\maria\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -65,7 +65,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.300/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.304/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
