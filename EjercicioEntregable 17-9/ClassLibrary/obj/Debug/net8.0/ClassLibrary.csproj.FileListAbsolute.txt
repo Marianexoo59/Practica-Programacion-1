@@ -1,0 +1,14 @@
+C:\Users\maria\source\repos\EjercicioEntregable 17-9\ClassLibrary\bin\Debug\net8.0\ClassLibrary.deps.json
+C:\Users\maria\source\repos\EjercicioEntregable 17-9\ClassLibrary\bin\Debug\net8.0\ClassLibrary.runtimeconfig.json
+C:\Users\maria\source\repos\EjercicioEntregable 17-9\ClassLibrary\bin\Debug\net8.0\ClassLibrary.dll
+C:\Users\maria\source\repos\EjercicioEntregable 17-9\ClassLibrary\bin\Debug\net8.0\ClassLibrary.pdb
+C:\Users\maria\source\repos\EjercicioEntregable 17-9\ClassLibrary\obj\Debug\net8.0\ClassLibrary.csproj.AssemblyReference.cache
+C:\Users\maria\source\repos\EjercicioEntregable 17-9\ClassLibrary\obj\Debug\net8.0\ClassLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\maria\source\repos\EjercicioEntregable 17-9\ClassLibrary\obj\Debug\net8.0\ClassLibrary.AssemblyInfoInputs.cache
+C:\Users\maria\source\repos\EjercicioEntregable 17-9\ClassLibrary\obj\Debug\net8.0\ClassLibrary.AssemblyInfo.cs
+C:\Users\maria\source\repos\EjercicioEntregable 17-9\ClassLibrary\obj\Debug\net8.0\ClassLibrary.csproj.CoreCompileInputs.cache
+C:\Users\maria\source\repos\EjercicioEntregable 17-9\ClassLibrary\obj\Debug\net8.0\ClassLibrary.dll
+C:\Users\maria\source\repos\EjercicioEntregable 17-9\ClassLibrary\obj\Debug\net8.0\refint\ClassLibrary.dll
+C:\Users\maria\source\repos\EjercicioEntregable 17-9\ClassLibrary\obj\Debug\net8.0\ClassLibrary.pdb
+C:\Users\maria\source\repos\EjercicioEntregable 17-9\ClassLibrary\obj\Debug\net8.0\ClassLibrary.genruntimeconfig.cache
+C:\Users\maria\source\repos\EjercicioEntregable 17-9\ClassLibrary\obj\Debug\net8.0\ref\ClassLibrary.dll
