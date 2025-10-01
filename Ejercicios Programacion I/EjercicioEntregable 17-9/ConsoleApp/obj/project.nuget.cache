@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "QUIadc33e7Y=",
+  "dgSpecHash": "37KK1hADfrk=",
   "success": true,
-  "projectFilePath": "C:\\Users\\maria\\source\\repos\\EjercicioEntregable 17-9\\ConsoleApp\\ConsoleApp.csproj",
+  "projectFilePath": "C:\\Users\\maria\\source\\repos\\Practica-Programacion-1\\Ejercicios Programacion I\\EjercicioEntregable 17-9\\ConsoleApp\\ConsoleApp.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\maria\\.nuget\\packages\\azure.core\\1.38.0\\azure.core.1.38.0.nupkg.sha512",
     "C:\\Users\\maria\\.nuget\\packages\\azure.identity\\1.11.4\\azure.identity.1.11.4.nupkg.sha512",

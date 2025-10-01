@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\maria\\source\\repos\\EjercicioEntregable 17-9\\ConsoleApp\\ConsoleApp.csproj": {}
+    "C:\\Users\\maria\\source\\repos\\Practica-Programacion-1\\Ejercicios Programacion I\\EjercicioEntregable 17-9\\ConsoleApp\\ConsoleApp.csproj": {}
   },
   "projects": {
-    "C:\\Users\\maria\\source\\repos\\EjercicioEntregable 17-9\\ClassLibrary\\ClassLibrary.csproj": {
+    "C:\\Users\\maria\\source\\repos\\Practica-Programacion-1\\Ejercicios Programacion I\\EjercicioEntregable 17-9\\ClassLibrary\\ClassLibrary.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\maria\\source\\repos\\EjercicioEntregable 17-9\\ClassLibrary\\ClassLibrary.csproj",
+        "projectUniqueName": "C:\\Users\\maria\\source\\repos\\Practica-Programacion-1\\Ejercicios Programacion I\\EjercicioEntregable 17-9\\ClassLibrary\\ClassLibrary.csproj",
         "projectName": "ClassLibrary",
-        "projectPath": "C:\\Users\\maria\\source\\repos\\EjercicioEntregable 17-9\\ClassLibrary\\ClassLibrary.csproj",
+        "projectPath": "C:\\Users\\maria\\source\\repos\\Practica-Programacion-1\\Ejercicios Programacion I\\EjercicioEntregable 17-9\\ClassLibrary\\ClassLibrary.csproj",
         "packagesPath": "C:\\Users\\maria\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\maria\\source\\repos\\EjercicioEntregable 17-9\\ClassLibrary\\obj\\",
+        "outputPath": "C:\\Users\\maria\\source\\repos\\Practica-Programacion-1\\Ejercicios Programacion I\\EjercicioEntregable 17-9\\ClassLibrary\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -85,14 +85,14 @@
         }
       }
     },
-    "C:\\Users\\maria\\source\\repos\\EjercicioEntregable 17-9\\ConsoleApp\\ConsoleApp.csproj": {
+    "C:\\Users\\maria\\source\\repos\\Practica-Programacion-1\\Ejercicios Programacion I\\EjercicioEntregable 17-9\\ConsoleApp\\ConsoleApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\maria\\source\\repos\\EjercicioEntregable 17-9\\ConsoleApp\\ConsoleApp.csproj",
+        "projectUniqueName": "C:\\Users\\maria\\source\\repos\\Practica-Programacion-1\\Ejercicios Programacion I\\EjercicioEntregable 17-9\\ConsoleApp\\ConsoleApp.csproj",
         "projectName": "ConsoleApp",
-        "projectPath": "C:\\Users\\maria\\source\\repos\\EjercicioEntregable 17-9\\ConsoleApp\\ConsoleApp.csproj",
+        "projectPath": "C:\\Users\\maria\\source\\repos\\Practica-Programacion-1\\Ejercicios Programacion I\\EjercicioEntregable 17-9\\ConsoleApp\\ConsoleApp.csproj",
         "packagesPath": "C:\\Users\\maria\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\maria\\source\\repos\\EjercicioEntregable 17-9\\ConsoleApp\\obj\\",
+        "outputPath": "C:\\Users\\maria\\source\\repos\\Practica-Programacion-1\\Ejercicios Programacion I\\EjercicioEntregable 17-9\\ConsoleApp\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -113,8 +113,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\maria\\source\\repos\\EjercicioEntregable 17-9\\ClassLibrary\\ClassLibrary.csproj": {
-                "projectPath": "C:\\Users\\maria\\source\\repos\\EjercicioEntregable 17-9\\ClassLibrary\\ClassLibrary.csproj"
+              "C:\\Users\\maria\\source\\repos\\Practica-Programacion-1\\Ejercicios Programacion I\\EjercicioEntregable 17-9\\ClassLibrary\\ClassLibrary.csproj": {
+                "projectPath": "C:\\Users\\maria\\source\\repos\\Practica-Programacion-1\\Ejercicios Programacion I\\EjercicioEntregable 17-9\\ClassLibrary\\ClassLibrary.csproj"
               }
             }
           }
