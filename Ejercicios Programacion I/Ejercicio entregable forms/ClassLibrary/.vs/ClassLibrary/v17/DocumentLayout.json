@@ -1,0 +1,162 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\maria\\source\\repos\\EjercicioEntregable 17-9\\ClassLibrary\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{28C8B910-0CCD-45D3-B736-7710FE5C5817}|ClassLibrary.csproj|c:\\users\\maria\\source\\repos\\ejercicioentregable 17-9\\classlibrary\\migrations\\aplicationdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{28C8B910-0CCD-45D3-B736-7710FE5C5817}|ClassLibrary.csproj|solutionrelative:migrations\\aplicationdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{28C8B910-0CCD-45D3-B736-7710FE5C5817}|ClassLibrary.csproj|c:\\users\\maria\\source\\repos\\ejercicioentregable 17-9\\classlibrary\\data\\aplicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{28C8B910-0CCD-45D3-B736-7710FE5C5817}|ClassLibrary.csproj|solutionrelative:data\\aplicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{28C8B910-0CCD-45D3-B736-7710FE5C5817}|ClassLibrary.csproj|c:\\users\\maria\\source\\repos\\ejercicioentregable 17-9\\classlibrary\\models\\departamento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{28C8B910-0CCD-45D3-B736-7710FE5C5817}|ClassLibrary.csproj|solutionrelative:models\\departamento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{190C62DC-B6A4-4552-A7B4-CE637B5BB020}|..\\ConsoleApp\\ConsoleApp.csproj|c:\\users\\maria\\source\\repos\\ejercicioentregable 17-9\\consoleapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{190C62DC-B6A4-4552-A7B4-CE637B5BB020}|..\\ConsoleApp\\ConsoleApp.csproj|c:\\users\\maria\\source\\repos\\ejercicioentregable 17-9\\consoleapp\\consoleapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{28C8B910-0CCD-45D3-B736-7710FE5C5817}|ClassLibrary.csproj|c:\\users\\maria\\source\\repos\\ejercicioentregable 17-9\\classlibrary\\repository\\departamentorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{28C8B910-0CCD-45D3-B736-7710FE5C5817}|ClassLibrary.csproj|solutionrelative:repository\\departamentorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{28C8B910-0CCD-45D3-B736-7710FE5C5817}|ClassLibrary.csproj|c:\\users\\maria\\source\\repos\\ejercicioentregable 17-9\\classlibrary\\models\\empleado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{28C8B910-0CCD-45D3-B736-7710FE5C5817}|ClassLibrary.csproj|solutionrelative:models\\empleado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{28C8B910-0CCD-45D3-B736-7710FE5C5817}|ClassLibrary.csproj|c:\\users\\maria\\source\\repos\\ejercicioentregable 17-9\\classlibrary\\repository\\empleadorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{28C8B910-0CCD-45D3-B736-7710FE5C5817}|ClassLibrary.csproj|solutionrelative:repository\\empleadorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AplicationDbContextModelSnapshot.cs",
+              "DocumentMoniker": "C:\\Users\\maria\\source\\repos\\EjercicioEntregable 17-9\\ClassLibrary\\Migrations\\AplicationDbContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "Migrations\\AplicationDbContextModelSnapshot.cs",
+              "ToolTip": "C:\\Users\\maria\\source\\repos\\EjercicioEntregable 17-9\\ClassLibrary\\Migrations\\AplicationDbContextModelSnapshot.cs",
+              "RelativeToolTip": "Migrations\\AplicationDbContextModelSnapshot.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAKwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-18T00:06:11.164Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ConsoleApp",
+              "DocumentMoniker": "C:\\Users\\maria\\source\\repos\\EjercicioEntregable 17-9\\ConsoleApp\\ConsoleApp.csproj",
+              "RelativeDocumentMoniker": "..\\ConsoleApp\\ConsoleApp.csproj",
+              "ToolTip": "C:\\Users\\maria\\source\\repos\\EjercicioEntregable 17-9\\ConsoleApp\\ConsoleApp.csproj",
+              "RelativeToolTip": "..\\ConsoleApp\\ConsoleApp.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-09-17T23:19:43.494Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\maria\\source\\repos\\EjercicioEntregable 17-9\\ConsoleApp\\Program.cs",
+              "RelativeDocumentMoniker": "..\\ConsoleApp\\Program.cs",
+              "ToolTip": "C:\\Users\\maria\\source\\repos\\EjercicioEntregable 17-9\\ConsoleApp\\Program.cs",
+              "RelativeToolTip": "..\\ConsoleApp\\Program.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAowK0AAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-17T22:34:20.184Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "DepartamentoRepository.cs",
+              "DocumentMoniker": "C:\\Users\\maria\\source\\repos\\EjercicioEntregable 17-9\\ClassLibrary\\Repository\\DepartamentoRepository.cs",
+              "RelativeDocumentMoniker": "Repository\\DepartamentoRepository.cs",
+              "ToolTip": "C:\\Users\\maria\\source\\repos\\EjercicioEntregable 17-9\\ClassLibrary\\Repository\\DepartamentoRepository.cs",
+              "RelativeToolTip": "Repository\\DepartamentoRepository.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAkwCIAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-17T22:10:34.814Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "EmpleadoRepository.cs",
+              "DocumentMoniker": "C:\\Users\\maria\\source\\repos\\EjercicioEntregable 17-9\\ClassLibrary\\Repository\\EmpleadoRepository.cs",
+              "RelativeDocumentMoniker": "Repository\\EmpleadoRepository.cs",
+              "ToolTip": "C:\\Users\\maria\\source\\repos\\EjercicioEntregable 17-9\\ClassLibrary\\Repository\\EmpleadoRepository.cs",
+              "RelativeToolTip": "Repository\\EmpleadoRepository.cs",
+              "ViewState": "AgIAADsAAAAAAAAAAAD4v0UAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-17T22:10:25.313Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\maria\\source\\repos\\EjercicioEntregable 17-9\\ClassLibrary\\Data\\AplicationDbContext.cs",
+              "RelativeDocumentMoniker": "Data\\AplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\maria\\source\\repos\\EjercicioEntregable 17-9\\ClassLibrary\\Data\\AplicationDbContext.cs",
+              "RelativeToolTip": "Data\\AplicationDbContext.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAEwA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-17T22:10:02.277Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Empleado.cs",
+              "DocumentMoniker": "C:\\Users\\maria\\source\\repos\\EjercicioEntregable 17-9\\ClassLibrary\\Models\\Empleado.cs",
+              "RelativeDocumentMoniker": "Models\\Empleado.cs",
+              "ToolTip": "C:\\Users\\maria\\source\\repos\\EjercicioEntregable 17-9\\ClassLibrary\\Models\\Empleado.cs",
+              "RelativeToolTip": "Models\\Empleado.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAA8AAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-17T22:08:13.603Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Departamento.cs",
+              "DocumentMoniker": "C:\\Users\\maria\\source\\repos\\EjercicioEntregable 17-9\\ClassLibrary\\Models\\Departamento.cs",
+              "RelativeDocumentMoniker": "Models\\Departamento.cs",
+              "ToolTip": "C:\\Users\\maria\\source\\repos\\EjercicioEntregable 17-9\\ClassLibrary\\Models\\Departamento.cs",
+              "RelativeToolTip": "Models\\Departamento.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAwAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-17T22:08:07.561Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
